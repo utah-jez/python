@@ -1,0 +1,68 @@
+,Season,Daynum,team_x,team_y,team_x_score,team_y_score,pred,proba,team_x_name,team_y_name
+0,2016,135,1221,1380,59,55,0,0.33,Holy Cross,Southern Univ
+1,2016,137,1221,1332,52,91,0,0.29,Holy Cross,Oregon
+2,2016,143,1181,1332,68,82,0,0.4,Duke,Oregon
+3,2016,145,1328,1332,80,68,1,0.56,Oklahoma,Oregon
+4,2016,135,1276,1409,67,62,0,0.43,Michigan,Tulsa
+5,2016,137,1276,1323,63,70,0,0.43,Michigan,Notre Dame
+6,2016,146,1314,1323,88,74,1,0.72,North Carolina,Notre Dame
+7,2016,136,1114,1345,85,83,0,0.13,Ark Little Rock,Purdue
+8,2016,138,1114,1235,61,78,0,0.5,Ark Little Rock,Iowa St
+9,2016,136,1233,1235,81,94,0,0.35,Iona,Iowa St
+10,2016,136,1139,1403,71,61,1,0.62,Butler,Texas Tech
+11,2016,138,1139,1438,69,77,0,0.35,Butler,Virginia
+12,2016,146,1393,1438,68,62,0,0.4,Syracuse,Virginia
+13,2016,136,1214,1438,45,81,0,0.13,Hampton,Virginia
+14,2016,144,1235,1438,71,84,0,0.37,Iowa St,Virginia
+15,2016,136,1181,1423,93,85,1,0.52,Duke,UNC Wilmington
+16,2016,138,1181,1463,71,64,0,0.4,Duke,Yale
+17,2016,136,1124,1463,75,79,1,0.51,Baylor,Yale
+18,2016,136,1211,1371,68,52,0,0.47,Gonzaga,Seton Hall
+19,2016,138,1211,1428,82,59,0,0.49,Gonzaga,Utah
+20,2016,136,1201,1428,69,80,0,0.08,Fresno St,Utah
+21,2016,144,1211,1393,60,63,1,0.71,Gonzaga,Syracuse
+22,2016,152,1314,1393,83,66,1,0.77,North Carolina,Syracuse
+23,2016,137,1173,1393,51,70,0,0.5,Dayton,Syracuse
+24,2016,139,1292,1393,50,75,0,0.47,MTSU,Syracuse
+25,2016,136,1246,1392,85,57,1,0.8,Kentucky,Stony Brook
+26,2016,136,1344,1425,70,69,0,0.4,Providence,USC
+27,2016,137,1234,1396,72,70,0,0.4,Iowa,Temple
+28,2016,139,1234,1437,68,87,0,0.31,Iowa,Villanova
+29,2016,143,1274,1437,69,92,1,0.54,Miami FL,Villanova
+30,2016,154,1314,1437,74,77,0,0.39,North Carolina,Villanova
+31,2016,152,1328,1437,51,95,0,0.49,Oklahoma,Villanova
+32,2016,145,1242,1437,59,64,1,0.61,Kansas,Villanova
+33,2016,137,1421,1437,56,86,0,0.19,UNC Asheville,Villanova
+34,2016,137,1268,1355,79,74,1,0.62,Maryland,S Dakota St
+35,2016,137,1320,1400,75,72,1,0.6,Northern Iowa,Texas
+36,2016,139,1320,1401,88,92,0,0.33,Northern Iowa,Texas A&M
+37,2016,143,1328,1401,77,63,0,0.46,Oklahoma,Texas A&M
+38,2016,137,1372,1452,70,56,0,0.34,SF Austin,West Virginia
+39,2016,137,1401,1453,92,65,1,0.67,Texas A&M,WI Green Bay
+40,2016,138,1231,1246,73,67,1,0.51,Indiana,Kentucky
+41,2016,144,1231,1314,86,101,0,0.42,Indiana,North Carolina
+42,2016,136,1195,1314,67,83,0,0.19,FL Gulf Coast,North Carolina
+43,2016,138,1274,1455,65,57,1,0.57,Miami FL,Wichita St
+44,2016,134,1435,1455,50,70,0,0.36,Vanderbilt,Wichita St
+45,2016,136,1112,1455,55,65,0,0.47,Arizona,Wichita St
+46,2016,138,1314,1344,85,66,1,0.74,North Carolina,Providence
+47,2016,139,1323,1372,76,75,0,0.39,Notre Dame,SF Austin
+48,2016,144,1323,1458,61,56,0,0.49,Notre Dame,Wisconsin
+49,2016,137,1338,1458,43,47,0,0.47,Pittsburgh,Wisconsin
+50,2016,139,1328,1433,85,81,0,0.49,Oklahoma,VA Commonwealth
+51,2016,137,1333,1433,67,75,0,0.43,Oregon St,VA Commonwealth
+52,2016,139,1332,1386,69,64,1,0.62,Oregon,St Joseph's PA
+53,2016,137,1153,1386,76,78,0,0.4,Cincinnati,St Joseph's PA
+54,2016,139,1458,1462,66,63,0,0.49,Wisconsin,Xavier
+55,2016,137,1451,1462,53,71,0,0.29,Weber St,Xavier
+56,2016,143,1242,1268,79,63,1,0.66,Kansas,Maryland
+57,2016,139,1218,1268,60,73,0,0.3,Hawaii,Maryland
+58,2016,134,1192,1195,65,96,0,0.34,F Dickinson,FL Gulf Coast
+59,2016,136,1160,1163,67,74,0,0.47,Colorado,Connecticut
+60,2016,136,1151,1231,74,99,0,0.34,Chattanooga,Indiana
+61,2016,136,1122,1242,79,105,0,0.09,Austin Peay,Kansas
+62,2016,138,1163,1242,61,73,0,0.4,Connecticut,Kansas
+63,2016,136,1138,1274,72,79,0,0.05,Buffalo,Miami FL
+64,2016,137,1143,1218,66,77,1,0.58,California,Hawaii
+65,2016,137,1277,1292,81,90,1,0.75,Michigan St,MTSU
+66,2016,137,1167,1328,68,82,0,0.15,CS Bakersfield,Oklahoma

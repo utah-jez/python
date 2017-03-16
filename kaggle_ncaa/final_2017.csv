@@ -1,0 +1,2279 @@
+,Year,team_x,team_y,pred,proba,team_x_name,team_y_name
+0,2017,1112,1116,1,0.8,Arizona,Arkansas
+1,2017,1112,1124,1,0.74,Arizona,Baylor
+2,2017,1116,1124,0,0.4,Arkansas,Baylor
+3,2017,1112,1137,0,0.47,Arizona,Bucknell
+4,2017,1116,1137,0,0.46,Arkansas,Bucknell
+5,2017,1124,1137,1,0.88,Baylor,Bucknell
+6,2017,1112,1139,1,0.73,Arizona,Butler
+7,2017,1116,1139,0,0.12,Arkansas,Butler
+8,2017,1124,1139,1,0.58,Baylor,Butler
+9,2017,1137,1139,1,0.72,Bucknell,Butler
+10,2017,1112,1153,1,0.83,Arizona,Cincinnati
+11,2017,1116,1153,0,0.4,Arkansas,Cincinnati
+12,2017,1124,1153,1,0.8,Baylor,Cincinnati
+13,2017,1137,1153,0,0.16,Bucknell,Cincinnati
+14,2017,1139,1153,0,0.41,Butler,Cincinnati
+15,2017,1112,1166,1,0.85,Arizona,Creighton
+16,2017,1116,1166,1,0.64,Arkansas,Creighton
+17,2017,1124,1166,1,0.63,Baylor,Creighton
+18,2017,1137,1166,0,0.26,Bucknell,Creighton
+19,2017,1139,1166,0,0.45,Butler,Creighton
+20,2017,1153,1166,1,0.67,Cincinnati,Creighton
+21,2017,1112,1173,1,0.61,Arizona,Dayton
+22,2017,1116,1173,0,0.4,Arkansas,Dayton
+23,2017,1124,1173,0,0.24,Baylor,Dayton
+24,2017,1137,1173,0,0.44,Bucknell,Dayton
+25,2017,1139,1173,0,0.41,Butler,Dayton
+26,2017,1153,1173,1,0.57,Cincinnati,Dayton
+27,2017,1166,1173,1,0.81,Creighton,Dayton
+28,2017,1112,1181,0,0.49,Arizona,Duke
+29,2017,1116,1181,0,0.41,Arkansas,Duke
+30,2017,1124,1181,0,0.3,Baylor,Duke
+31,2017,1137,1181,0,0.39,Bucknell,Duke
+32,2017,1139,1181,0,0.39,Butler,Duke
+33,2017,1153,1181,1,0.55,Cincinnati,Duke
+34,2017,1166,1181,1,0.76,Creighton,Duke
+35,2017,1173,1181,1,0.85,Dayton,Duke
+36,2017,1112,1190,1,0.53,Arizona,ETSU
+37,2017,1116,1190,1,0.78,Arkansas,ETSU
+38,2017,1124,1190,0,0.17,Baylor,ETSU
+39,2017,1137,1190,1,0.73,Bucknell,ETSU
+40,2017,1139,1190,1,0.65,Butler,ETSU
+41,2017,1153,1190,0,0.3,Cincinnati,ETSU
+42,2017,1166,1190,1,0.9,Creighton,ETSU
+43,2017,1173,1190,0,0.34,Dayton,ETSU
+44,2017,1181,1190,1,0.6,Duke,ETSU
+45,2017,1112,1195,0,0.34,Arizona,FL Gulf Coast
+46,2017,1116,1195,0,0.19,Arkansas,FL Gulf Coast
+47,2017,1124,1195,0,0.27,Baylor,FL Gulf Coast
+48,2017,1137,1195,0,0.24,Bucknell,FL Gulf Coast
+49,2017,1139,1195,0,0.33,Butler,FL Gulf Coast
+50,2017,1153,1195,1,0.52,Cincinnati,FL Gulf Coast
+51,2017,1166,1195,1,0.93,Creighton,FL Gulf Coast
+52,2017,1173,1195,1,0.58,Dayton,FL Gulf Coast
+53,2017,1181,1195,1,0.78,Duke,FL Gulf Coast
+54,2017,1190,1195,1,0.85,ETSU,FL Gulf Coast
+55,2017,1112,1196,1,0.86,Arizona,Florida
+56,2017,1116,1196,0,0.24,Arkansas,Florida
+57,2017,1124,1196,0,0.39,Baylor,Florida
+58,2017,1137,1196,0,0.44,Bucknell,Florida
+59,2017,1139,1196,0,0.25,Butler,Florida
+60,2017,1153,1196,1,0.52,Cincinnati,Florida
+61,2017,1166,1196,1,0.94,Creighton,Florida
+62,2017,1173,1196,0,0.26,Dayton,Florida
+63,2017,1181,1196,0,0.4,Duke,Florida
+64,2017,1190,1196,1,0.88,ETSU,Florida
+65,2017,1195,1196,0,0.23,FL Gulf Coast,Florida
+66,2017,1112,1199,0,0.38,Arizona,Florida St
+67,2017,1116,1199,0,0.45,Arkansas,Florida St
+68,2017,1124,1199,0,0.32,Baylor,Florida St
+69,2017,1137,1199,0,0.22,Bucknell,Florida St
+70,2017,1139,1199,0,0.21,Butler,Florida St
+71,2017,1153,1199,1,0.53,Cincinnati,Florida St
+72,2017,1166,1199,1,0.57,Creighton,Florida St
+73,2017,1173,1199,1,0.71,Dayton,Florida St
+74,2017,1181,1199,0,0.33,Duke,Florida St
+75,2017,1190,1199,1,0.89,ETSU,Florida St
+76,2017,1195,1199,0,0.04,FL Gulf Coast,Florida St
+77,2017,1196,1199,0,0.14,Florida,Florida St
+78,2017,1112,1211,0,0.46,Arizona,Gonzaga
+79,2017,1116,1211,1,0.7,Arkansas,Gonzaga
+80,2017,1124,1211,0,0.29,Baylor,Gonzaga
+81,2017,1137,1211,1,0.75,Bucknell,Gonzaga
+82,2017,1139,1211,1,0.68,Butler,Gonzaga
+83,2017,1153,1211,0,0.4,Cincinnati,Gonzaga
+84,2017,1166,1211,1,0.84,Creighton,Gonzaga
+85,2017,1173,1211,0,0.43,Dayton,Gonzaga
+86,2017,1181,1211,0,0.21,Duke,Gonzaga
+87,2017,1190,1211,1,0.86,ETSU,Gonzaga
+88,2017,1195,1211,0,0.19,FL Gulf Coast,Gonzaga
+89,2017,1196,1211,1,0.72,Florida,Gonzaga
+90,2017,1199,1211,0,0.47,Florida St,Gonzaga
+91,2017,1112,1233,0,0.1,Arizona,Iona
+92,2017,1116,1233,0,0.24,Arkansas,Iona
+93,2017,1124,1233,1,0.51,Baylor,Iona
+94,2017,1137,1233,0,0.16,Bucknell,Iona
+95,2017,1139,1233,0,0.43,Butler,Iona
+96,2017,1153,1233,1,0.61,Cincinnati,Iona
+97,2017,1166,1233,1,0.63,Creighton,Iona
+98,2017,1173,1233,1,0.6,Dayton,Iona
+99,2017,1181,1233,1,0.81,Duke,Iona
+100,2017,1190,1233,1,0.83,ETSU,Iona
+101,2017,1195,1233,0,0.16,FL Gulf Coast,Iona
+102,2017,1196,1233,0,0.42,Florida,Iona
+103,2017,1199,1233,0,0.36,Florida St,Iona
+104,2017,1211,1233,1,0.8,Gonzaga,Iona
+105,2017,1112,1235,0,0.37,Arizona,Iowa St
+106,2017,1116,1235,0,0.21,Arkansas,Iowa St
+107,2017,1124,1235,0,0.29,Baylor,Iowa St
+108,2017,1137,1235,0,0.21,Bucknell,Iowa St
+109,2017,1139,1235,0,0.29,Butler,Iowa St
+110,2017,1153,1235,1,0.55,Cincinnati,Iowa St
+111,2017,1166,1235,1,0.88,Creighton,Iowa St
+112,2017,1173,1235,1,0.77,Dayton,Iowa St
+113,2017,1181,1235,0,0.47,Duke,Iowa St
+114,2017,1190,1235,1,0.88,ETSU,Iowa St
+115,2017,1195,1235,0,0.13,FL Gulf Coast,Iowa St
+116,2017,1196,1235,0,0.26,Florida,Iowa St
+117,2017,1199,1235,1,0.56,Florida St,Iowa St
+118,2017,1211,1235,0,0.09,Gonzaga,Iowa St
+119,2017,1233,1235,1,0.58,Iona,Iowa St
+120,2017,1112,1240,1,0.56,Arizona,Jacksonville St
+121,2017,1116,1240,0,0.12,Arkansas,Jacksonville St
+122,2017,1124,1240,0,0.25,Baylor,Jacksonville St
+123,2017,1137,1240,1,0.78,Bucknell,Jacksonville St
+124,2017,1139,1240,1,0.78,Butler,Jacksonville St
+125,2017,1153,1240,0,0.42,Cincinnati,Jacksonville St
+126,2017,1166,1240,1,0.89,Creighton,Jacksonville St
+127,2017,1173,1240,1,0.86,Dayton,Jacksonville St
+128,2017,1181,1240,0,0.24,Duke,Jacksonville St
+129,2017,1190,1240,1,0.85,ETSU,Jacksonville St
+130,2017,1195,1240,1,0.78,FL Gulf Coast,Jacksonville St
+131,2017,1196,1240,1,0.76,Florida,Jacksonville St
+132,2017,1199,1240,1,0.8,Florida St,Jacksonville St
+133,2017,1211,1240,0,0.49,Gonzaga,Jacksonville St
+134,2017,1233,1240,1,0.54,Iona,Jacksonville St
+135,2017,1235,1240,1,0.54,Iowa St,Jacksonville St
+136,2017,1112,1242,1,0.59,Arizona,Kansas
+137,2017,1116,1242,0,0.26,Arkansas,Kansas
+138,2017,1124,1242,0,0.32,Baylor,Kansas
+139,2017,1137,1242,0,0.4,Bucknell,Kansas
+140,2017,1139,1242,1,0.55,Butler,Kansas
+141,2017,1153,1242,1,0.59,Cincinnati,Kansas
+142,2017,1166,1242,1,0.72,Creighton,Kansas
+143,2017,1173,1242,1,0.59,Dayton,Kansas
+144,2017,1181,1242,1,0.85,Duke,Kansas
+145,2017,1190,1242,1,0.83,ETSU,Kansas
+146,2017,1195,1242,1,0.71,FL Gulf Coast,Kansas
+147,2017,1196,1242,1,0.6,Florida,Kansas
+148,2017,1199,1242,0,0.5,Florida St,Kansas
+149,2017,1211,1242,0,0.08,Gonzaga,Kansas
+150,2017,1233,1242,0,0.5,Iona,Kansas
+151,2017,1235,1242,1,0.69,Iowa St,Kansas
+152,2017,1240,1242,0,0.34,Jacksonville St,Kansas
+153,2017,1112,1243,1,0.54,Arizona,Kansas St
+154,2017,1116,1243,0,0.45,Arkansas,Kansas St
+155,2017,1124,1243,0,0.27,Baylor,Kansas St
+156,2017,1137,1243,0,0.5,Bucknell,Kansas St
+157,2017,1139,1243,0,0.38,Butler,Kansas St
+158,2017,1153,1243,1,0.53,Cincinnati,Kansas St
+159,2017,1166,1243,1,0.91,Creighton,Kansas St
+160,2017,1173,1243,1,0.63,Dayton,Kansas St
+161,2017,1181,1243,1,0.62,Duke,Kansas St
+162,2017,1190,1243,0,0.45,ETSU,Kansas St
+163,2017,1195,1243,1,0.85,FL Gulf Coast,Kansas St
+164,2017,1196,1243,0,0.46,Florida,Kansas St
+165,2017,1199,1243,1,0.51,Florida St,Kansas St
+166,2017,1211,1243,1,0.7,Gonzaga,Kansas St
+167,2017,1233,1243,0,0.47,Iona,Kansas St
+168,2017,1235,1243,1,0.54,Iowa St,Kansas St
+169,2017,1240,1243,0,0.21,Jacksonville St,Kansas St
+170,2017,1242,1243,1,0.79,Kansas,Kansas St
+171,2017,1112,1245,0,0.4,Arizona,Kent
+172,2017,1116,1245,0,0.36,Arkansas,Kent
+173,2017,1124,1245,1,0.62,Baylor,Kent
+174,2017,1137,1245,0,0.11,Bucknell,Kent
+175,2017,1139,1245,1,0.84,Butler,Kent
+176,2017,1153,1245,1,0.66,Cincinnati,Kent
+177,2017,1166,1245,1,0.92,Creighton,Kent
+178,2017,1173,1245,1,0.67,Dayton,Kent
+179,2017,1181,1245,0,0.4,Duke,Kent
+180,2017,1190,1245,1,0.81,ETSU,Kent
+181,2017,1195,1245,1,0.54,FL Gulf Coast,Kent
+182,2017,1196,1245,0,0.5,Florida,Kent
+183,2017,1199,1245,0,0.39,Florida St,Kent
+184,2017,1211,1245,0,0.2,Gonzaga,Kent
+185,2017,1233,1245,1,0.51,Iona,Kent
+186,2017,1235,1245,1,0.76,Iowa St,Kent
+187,2017,1240,1245,1,0.84,Jacksonville St,Kent
+188,2017,1242,1245,1,0.55,Kansas,Kent
+189,2017,1243,1245,0,0.18,Kansas St,Kent
+190,2017,1112,1246,1,0.58,Arizona,Kentucky
+191,2017,1116,1246,0,0.34,Arkansas,Kentucky
+192,2017,1124,1246,0,0.05,Baylor,Kentucky
+193,2017,1137,1246,0,0.33,Bucknell,Kentucky
+194,2017,1139,1246,1,0.56,Butler,Kentucky
+195,2017,1153,1246,0,0.28,Cincinnati,Kentucky
+196,2017,1166,1246,1,0.87,Creighton,Kentucky
+197,2017,1173,1246,1,0.65,Dayton,Kentucky
+198,2017,1181,1246,0,0.48,Duke,Kentucky
+199,2017,1190,1246,1,0.55,ETSU,Kentucky
+200,2017,1195,1246,1,0.73,FL Gulf Coast,Kentucky
+201,2017,1196,1246,0,0.37,Florida,Kentucky
+202,2017,1199,1246,0,0.39,Florida St,Kentucky
+203,2017,1211,1246,0,0.21,Gonzaga,Kentucky
+204,2017,1233,1246,1,0.54,Iona,Kentucky
+205,2017,1235,1246,0,0.42,Iowa St,Kentucky
+206,2017,1240,1246,0,0.26,Jacksonville St,Kentucky
+207,2017,1242,1246,1,0.59,Kansas,Kentucky
+208,2017,1243,1246,0,0.1,Kansas St,Kentucky
+209,2017,1245,1246,0,0.47,Kent,Kentucky
+210,2017,1112,1257,0,0.46,Arizona,Louisville
+211,2017,1116,1257,1,0.57,Arkansas,Louisville
+212,2017,1124,1257,0,0.29,Baylor,Louisville
+213,2017,1137,1257,1,0.73,Bucknell,Louisville
+214,2017,1139,1257,1,0.69,Butler,Louisville
+215,2017,1153,1257,0,0.39,Cincinnati,Louisville
+216,2017,1166,1257,1,0.94,Creighton,Louisville
+217,2017,1173,1257,1,0.57,Dayton,Louisville
+218,2017,1181,1257,0,0.48,Duke,Louisville
+219,2017,1190,1257,1,0.91,ETSU,Louisville
+220,2017,1195,1257,1,0.74,FL Gulf Coast,Louisville
+221,2017,1196,1257,0,0.32,Florida,Louisville
+222,2017,1199,1257,1,0.7,Florida St,Louisville
+223,2017,1211,1257,1,0.7,Gonzaga,Louisville
+224,2017,1233,1257,0,0.46,Iona,Louisville
+225,2017,1235,1257,0,0.32,Iowa St,Louisville
+226,2017,1240,1257,0,0.33,Jacksonville St,Louisville
+227,2017,1242,1257,0,0.34,Kansas,Louisville
+228,2017,1243,1257,1,0.79,Kansas St,Louisville
+229,2017,1245,1257,0,0.32,Kent,Louisville
+230,2017,1246,1257,0,0.44,Kentucky,Louisville
+231,2017,1112,1266,1,0.64,Arizona,Marquette
+232,2017,1116,1266,0,0.21,Arkansas,Marquette
+233,2017,1124,1266,0,0.03,Baylor,Marquette
+234,2017,1137,1266,0,0.43,Bucknell,Marquette
+235,2017,1139,1266,0,0.29,Butler,Marquette
+236,2017,1153,1266,0,0.34,Cincinnati,Marquette
+237,2017,1166,1266,1,0.89,Creighton,Marquette
+238,2017,1173,1266,1,0.52,Dayton,Marquette
+239,2017,1181,1266,0,0.36,Duke,Marquette
+240,2017,1190,1266,1,0.87,ETSU,Marquette
+241,2017,1195,1266,1,0.66,FL Gulf Coast,Marquette
+242,2017,1196,1266,0,0.4,Florida,Marquette
+243,2017,1199,1266,0,0.36,Florida St,Marquette
+244,2017,1211,1266,1,0.53,Gonzaga,Marquette
+245,2017,1233,1266,0,0.45,Iona,Marquette
+246,2017,1235,1266,0,0.19,Iowa St,Marquette
+247,2017,1240,1266,1,0.58,Jacksonville St,Marquette
+248,2017,1242,1266,1,0.82,Kansas,Marquette
+249,2017,1243,1266,1,0.63,Kansas St,Marquette
+250,2017,1245,1266,0,0.19,Kent,Marquette
+251,2017,1246,1266,1,0.61,Kentucky,Marquette
+252,2017,1257,1266,0,0.43,Louisville,Marquette
+253,2017,1112,1268,1,0.58,Arizona,Maryland
+254,2017,1116,1268,0,0.22,Arkansas,Maryland
+255,2017,1124,1268,1,0.73,Baylor,Maryland
+256,2017,1137,1268,0,0.38,Bucknell,Maryland
+257,2017,1139,1268,0,0.32,Butler,Maryland
+258,2017,1153,1268,1,0.62,Cincinnati,Maryland
+259,2017,1166,1268,1,0.79,Creighton,Maryland
+260,2017,1173,1268,0,0.23,Dayton,Maryland
+261,2017,1181,1268,0,0.46,Duke,Maryland
+262,2017,1190,1268,1,0.76,ETSU,Maryland
+263,2017,1195,1268,1,0.7,FL Gulf Coast,Maryland
+264,2017,1196,1268,1,0.51,Florida,Maryland
+265,2017,1199,1268,0,0.38,Florida St,Maryland
+266,2017,1211,1268,0,0.31,Gonzaga,Maryland
+267,2017,1233,1268,1,0.59,Iona,Maryland
+268,2017,1235,1268,0,0.44,Iowa St,Maryland
+269,2017,1240,1268,1,0.68,Jacksonville St,Maryland
+270,2017,1242,1268,0,0.5,Kansas,Maryland
+271,2017,1243,1268,0,0.45,Kansas St,Maryland
+272,2017,1245,1268,0,0.3,Kent,Maryland
+273,2017,1246,1268,1,0.6,Kentucky,Maryland
+274,2017,1257,1268,0,0.41,Louisville,Maryland
+275,2017,1266,1268,0,0.49,Marquette,Maryland
+276,2017,1112,1274,1,0.55,Arizona,Miami FL
+277,2017,1116,1274,0,0.25,Arkansas,Miami FL
+278,2017,1124,1274,1,0.56,Baylor,Miami FL
+279,2017,1137,1274,1,0.68,Bucknell,Miami FL
+280,2017,1139,1274,1,0.73,Butler,Miami FL
+281,2017,1153,1274,0,0.49,Cincinnati,Miami FL
+282,2017,1166,1274,1,0.87,Creighton,Miami FL
+283,2017,1173,1274,1,0.57,Dayton,Miami FL
+284,2017,1181,1274,1,0.51,Duke,Miami FL
+285,2017,1190,1274,1,0.79,ETSU,Miami FL
+286,2017,1195,1274,1,0.74,FL Gulf Coast,Miami FL
+287,2017,1196,1274,0,0.18,Florida,Miami FL
+288,2017,1199,1274,1,0.76,Florida St,Miami FL
+289,2017,1211,1274,0,0.28,Gonzaga,Miami FL
+290,2017,1233,1274,0,0.36,Iona,Miami FL
+291,2017,1235,1274,1,0.52,Iowa St,Miami FL
+292,2017,1240,1274,1,0.7,Jacksonville St,Miami FL
+293,2017,1242,1274,0,0.49,Kansas,Miami FL
+294,2017,1243,1274,0,0.4,Kansas St,Miami FL
+295,2017,1245,1274,0,0.33,Kent,Miami FL
+296,2017,1246,1274,0,0.37,Kentucky,Miami FL
+297,2017,1257,1274,0,0.47,Louisville,Miami FL
+298,2017,1266,1274,0,0.5,Marquette,Miami FL
+299,2017,1268,1274,1,0.91,Maryland,Miami FL
+300,2017,1112,1276,0,0.42,Arizona,Michigan
+301,2017,1116,1276,0,0.27,Arkansas,Michigan
+302,2017,1124,1276,1,0.55,Baylor,Michigan
+303,2017,1137,1276,0,0.14,Bucknell,Michigan
+304,2017,1139,1276,0,0.37,Butler,Michigan
+305,2017,1153,1276,0,0.34,Cincinnati,Michigan
+306,2017,1166,1276,1,0.79,Creighton,Michigan
+307,2017,1173,1276,1,0.83,Dayton,Michigan
+308,2017,1181,1276,0,0.02,Duke,Michigan
+309,2017,1190,1276,1,0.83,ETSU,Michigan
+310,2017,1195,1276,1,0.65,FL Gulf Coast,Michigan
+311,2017,1196,1276,1,0.53,Florida,Michigan
+312,2017,1199,1276,0,0.46,Florida St,Michigan
+313,2017,1211,1276,0,0.42,Gonzaga,Michigan
+314,2017,1233,1276,1,0.57,Iona,Michigan
+315,2017,1235,1276,0,0.37,Iowa St,Michigan
+316,2017,1240,1276,0,0.28,Jacksonville St,Michigan
+317,2017,1242,1276,1,0.8,Kansas,Michigan
+318,2017,1243,1276,0,0.42,Kansas St,Michigan
+319,2017,1245,1276,0,0.21,Kent,Michigan
+320,2017,1246,1276,0,0.44,Kentucky,Michigan
+321,2017,1257,1276,1,0.51,Louisville,Michigan
+322,2017,1266,1276,1,0.76,Marquette,Michigan
+323,2017,1268,1276,1,0.6,Maryland,Michigan
+324,2017,1274,1276,1,0.82,Miami FL,Michigan
+325,2017,1112,1277,1,0.51,Arizona,Michigan St
+326,2017,1116,1277,1,0.67,Arkansas,Michigan St
+327,2017,1124,1277,0,0.43,Baylor,Michigan St
+328,2017,1137,1277,0,0.18,Bucknell,Michigan St
+329,2017,1139,1277,0,0.31,Butler,Michigan St
+330,2017,1153,1277,1,0.73,Cincinnati,Michigan St
+331,2017,1166,1277,1,0.64,Creighton,Michigan St
+332,2017,1173,1277,1,0.9,Dayton,Michigan St
+333,2017,1181,1277,1,0.58,Duke,Michigan St
+334,2017,1190,1277,1,0.79,ETSU,Michigan St
+335,2017,1195,1277,1,0.64,FL Gulf Coast,Michigan St
+336,2017,1196,1277,1,0.53,Florida,Michigan St
+337,2017,1199,1277,0,0.37,Florida St,Michigan St
+338,2017,1211,1277,0,0.48,Gonzaga,Michigan St
+339,2017,1233,1277,0,0.36,Iona,Michigan St
+340,2017,1235,1277,0,0.44,Iowa St,Michigan St
+341,2017,1240,1277,0,0.21,Jacksonville St,Michigan St
+342,2017,1242,1277,1,0.84,Kansas,Michigan St
+343,2017,1243,1277,0,0.36,Kansas St,Michigan St
+344,2017,1245,1277,0,0.37,Kent,Michigan St
+345,2017,1246,1277,0,0.5,Kentucky,Michigan St
+346,2017,1257,1277,0,0.43,Louisville,Michigan St
+347,2017,1266,1277,1,0.82,Marquette,Michigan St
+348,2017,1268,1277,1,0.82,Maryland,Michigan St
+349,2017,1274,1277,1,0.84,Miami FL,Michigan St
+350,2017,1276,1277,1,0.86,Michigan,Michigan St
+351,2017,1112,1278,1,0.56,Arizona,Minnesota
+352,2017,1116,1278,1,0.72,Arkansas,Minnesota
+353,2017,1124,1278,0,0.5,Baylor,Minnesota
+354,2017,1137,1278,1,0.51,Bucknell,Minnesota
+355,2017,1139,1278,1,0.76,Butler,Minnesota
+356,2017,1153,1278,1,0.66,Cincinnati,Minnesota
+357,2017,1166,1278,1,0.54,Creighton,Minnesota
+358,2017,1173,1278,1,0.95,Dayton,Minnesota
+359,2017,1181,1278,0,0.43,Duke,Minnesota
+360,2017,1190,1278,1,0.86,ETSU,Minnesota
+361,2017,1195,1278,1,0.77,FL Gulf Coast,Minnesota
+362,2017,1196,1278,0,0.17,Florida,Minnesota
+363,2017,1199,1278,0,0.44,Florida St,Minnesota
+364,2017,1211,1278,0,0.14,Gonzaga,Minnesota
+365,2017,1233,1278,1,0.52,Iona,Minnesota
+366,2017,1235,1278,1,0.73,Iowa St,Minnesota
+367,2017,1240,1278,0,0.15,Jacksonville St,Minnesota
+368,2017,1242,1278,1,0.62,Kansas,Minnesota
+369,2017,1243,1278,0,0.2,Kansas St,Minnesota
+370,2017,1245,1278,0,0.01,Kent,Minnesota
+371,2017,1246,1278,0,0.08,Kentucky,Minnesota
+372,2017,1257,1278,0,0.27,Louisville,Minnesota
+373,2017,1266,1278,1,0.64,Marquette,Minnesota
+374,2017,1268,1278,0,0.38,Maryland,Minnesota
+375,2017,1274,1278,1,0.74,Miami FL,Minnesota
+376,2017,1276,1278,1,0.66,Michigan,Minnesota
+377,2017,1277,1278,0,0.28,Michigan St,Minnesota
+378,2017,1112,1291,0,0.45,Arizona,Mt St Mary's
+379,2017,1116,1291,1,0.77,Arkansas,Mt St Mary's
+380,2017,1124,1291,1,0.61,Baylor,Mt St Mary's
+381,2017,1137,1291,0,0.41,Bucknell,Mt St Mary's
+382,2017,1139,1291,0,0.27,Butler,Mt St Mary's
+383,2017,1153,1291,1,0.58,Cincinnati,Mt St Mary's
+384,2017,1166,1291,1,0.61,Creighton,Mt St Mary's
+385,2017,1173,1291,1,0.68,Dayton,Mt St Mary's
+386,2017,1181,1291,0,0.01,Duke,Mt St Mary's
+387,2017,1190,1291,1,0.84,ETSU,Mt St Mary's
+388,2017,1195,1291,1,0.74,FL Gulf Coast,Mt St Mary's
+389,2017,1196,1291,0,0.45,Florida,Mt St Mary's
+390,2017,1199,1291,1,0.59,Florida St,Mt St Mary's
+391,2017,1211,1291,0,0.49,Gonzaga,Mt St Mary's
+392,2017,1233,1291,0,0.48,Iona,Mt St Mary's
+393,2017,1235,1291,0,0.28,Iowa St,Mt St Mary's
+394,2017,1240,1291,1,0.82,Jacksonville St,Mt St Mary's
+395,2017,1242,1291,1,0.65,Kansas,Mt St Mary's
+396,2017,1243,1291,1,0.52,Kansas St,Mt St Mary's
+397,2017,1245,1291,0,0.28,Kent,Mt St Mary's
+398,2017,1246,1291,1,0.68,Kentucky,Mt St Mary's
+399,2017,1257,1291,1,0.57,Louisville,Mt St Mary's
+400,2017,1266,1291,1,0.72,Marquette,Mt St Mary's
+401,2017,1268,1291,1,0.94,Maryland,Mt St Mary's
+402,2017,1274,1291,1,0.81,Miami FL,Mt St Mary's
+403,2017,1276,1291,0,0.48,Michigan,Mt St Mary's
+404,2017,1277,1291,0,0.33,Michigan St,Mt St Mary's
+405,2017,1278,1291,0,0.49,Minnesota,Mt St Mary's
+406,2017,1112,1292,1,0.74,Arizona,MTSU
+407,2017,1116,1292,0,0.43,Arkansas,MTSU
+408,2017,1124,1292,0,0.44,Baylor,MTSU
+409,2017,1137,1292,1,0.66,Bucknell,MTSU
+410,2017,1139,1292,0,0.33,Butler,MTSU
+411,2017,1153,1292,1,0.58,Cincinnati,MTSU
+412,2017,1166,1292,0,0.28,Creighton,MTSU
+413,2017,1173,1292,1,0.94,Dayton,MTSU
+414,2017,1181,1292,1,0.63,Duke,MTSU
+415,2017,1190,1292,1,0.76,ETSU,MTSU
+416,2017,1195,1292,1,0.71,FL Gulf Coast,MTSU
+417,2017,1196,1292,0,0.35,Florida,MTSU
+418,2017,1199,1292,1,0.74,Florida St,MTSU
+419,2017,1211,1292,0,0.12,Gonzaga,MTSU
+420,2017,1233,1292,1,0.73,Iona,MTSU
+421,2017,1235,1292,0,0.29,Iowa St,MTSU
+422,2017,1240,1292,0,0.4,Jacksonville St,MTSU
+423,2017,1242,1292,1,0.85,Kansas,MTSU
+424,2017,1243,1292,0,0.14,Kansas St,MTSU
+425,2017,1245,1292,0,0.24,Kent,MTSU
+426,2017,1246,1292,1,0.59,Kentucky,MTSU
+427,2017,1257,1292,0,0.03,Louisville,MTSU
+428,2017,1266,1292,1,0.77,Marquette,MTSU
+429,2017,1268,1292,1,0.72,Maryland,MTSU
+430,2017,1274,1292,1,0.8,Miami FL,MTSU
+431,2017,1276,1292,1,0.59,Michigan,MTSU
+432,2017,1277,1292,0,0.44,Michigan St,MTSU
+433,2017,1278,1292,0,0.06,Minnesota,MTSU
+434,2017,1291,1292,1,0.62,Mt St Mary's,MTSU
+435,2017,1112,1297,0,0.33,Arizona,N Kentucky
+436,2017,1116,1297,1,0.76,Arkansas,N Kentucky
+437,2017,1124,1297,0,0.4,Baylor,N Kentucky
+438,2017,1137,1297,0,0.11,Bucknell,N Kentucky
+439,2017,1139,1297,1,0.59,Butler,N Kentucky
+440,2017,1153,1297,1,0.55,Cincinnati,N Kentucky
+441,2017,1166,1297,0,0.43,Creighton,N Kentucky
+442,2017,1173,1297,1,0.96,Dayton,N Kentucky
+443,2017,1181,1297,1,0.59,Duke,N Kentucky
+444,2017,1190,1297,1,0.88,ETSU,N Kentucky
+445,2017,1195,1297,1,0.61,FL Gulf Coast,N Kentucky
+446,2017,1196,1297,0,0.18,Florida,N Kentucky
+447,2017,1199,1297,0,0.35,Florida St,N Kentucky
+448,2017,1211,1297,0,0.37,Gonzaga,N Kentucky
+449,2017,1233,1297,0,0.49,Iona,N Kentucky
+450,2017,1235,1297,0,0.43,Iowa St,N Kentucky
+451,2017,1240,1297,0,0.26,Jacksonville St,N Kentucky
+452,2017,1242,1297,1,0.58,Kansas,N Kentucky
+453,2017,1243,1297,1,0.52,Kansas St,N Kentucky
+454,2017,1245,1297,0,0.0,Kent,N Kentucky
+455,2017,1246,1297,0,0.14,Kentucky,N Kentucky
+456,2017,1257,1297,0,0.44,Louisville,N Kentucky
+457,2017,1266,1297,1,0.72,Marquette,N Kentucky
+458,2017,1268,1297,0,0.48,Maryland,N Kentucky
+459,2017,1274,1297,1,0.79,Miami FL,N Kentucky
+460,2017,1276,1297,0,0.39,Michigan,N Kentucky
+461,2017,1277,1297,0,0.42,Michigan St,N Kentucky
+462,2017,1278,1297,0,0.48,Minnesota,N Kentucky
+463,2017,1291,1297,0,0.23,Mt St Mary's,N Kentucky
+464,2017,1292,1297,0,0.25,MTSU,N Kentucky
+465,2017,1112,1300,0,0.29,Arizona,NC Central
+466,2017,1116,1300,1,0.79,Arkansas,NC Central
+467,2017,1124,1300,1,0.7,Baylor,NC Central
+468,2017,1137,1300,0,0.35,Bucknell,NC Central
+469,2017,1139,1300,1,0.67,Butler,NC Central
+470,2017,1153,1300,0,0.4,Cincinnati,NC Central
+471,2017,1166,1300,0,0.48,Creighton,NC Central
+472,2017,1173,1300,1,0.81,Dayton,NC Central
+473,2017,1181,1300,1,0.58,Duke,NC Central
+474,2017,1190,1300,1,0.7,ETSU,NC Central
+475,2017,1195,1300,1,0.55,FL Gulf Coast,NC Central
+476,2017,1196,1300,1,0.64,Florida,NC Central
+477,2017,1199,1300,0,0.35,Florida St,NC Central
+478,2017,1211,1300,0,0.25,Gonzaga,NC Central
+479,2017,1233,1300,1,0.63,Iona,NC Central
+480,2017,1235,1300,0,0.49,Iowa St,NC Central
+481,2017,1240,1300,1,0.85,Jacksonville St,NC Central
+482,2017,1242,1300,0,0.38,Kansas,NC Central
+483,2017,1243,1300,0,0.16,Kansas St,NC Central
+484,2017,1245,1300,0,0.22,Kent,NC Central
+485,2017,1246,1300,0,0.49,Kentucky,NC Central
+486,2017,1257,1300,0,0.28,Louisville,NC Central
+487,2017,1266,1300,0,0.4,Marquette,NC Central
+488,2017,1268,1300,1,0.9,Maryland,NC Central
+489,2017,1274,1300,1,0.88,Miami FL,NC Central
+490,2017,1276,1300,0,0.32,Michigan,NC Central
+491,2017,1277,1300,1,0.52,Michigan St,NC Central
+492,2017,1278,1300,0,0.35,Minnesota,NC Central
+493,2017,1291,1300,0,0.22,Mt St Mary's,NC Central
+494,2017,1292,1300,1,0.56,MTSU,NC Central
+495,2017,1297,1300,1,0.69,N Kentucky,NC Central
+496,2017,1112,1305,0,0.13,Arizona,Nevada
+497,2017,1116,1305,1,0.63,Arkansas,Nevada
+498,2017,1124,1305,1,0.54,Baylor,Nevada
+499,2017,1137,1305,0,0.08,Bucknell,Nevada
+500,2017,1139,1305,1,0.71,Butler,Nevada
+501,2017,1153,1305,1,0.79,Cincinnati,Nevada
+502,2017,1166,1305,0,0.45,Creighton,Nevada
+503,2017,1173,1305,1,0.92,Dayton,Nevada
+504,2017,1181,1305,0,0.43,Duke,Nevada
+505,2017,1190,1305,1,0.51,ETSU,Nevada
+506,2017,1195,1305,0,0.37,FL Gulf Coast,Nevada
+507,2017,1196,1305,0,0.21,Florida,Nevada
+508,2017,1199,1305,0,0.1,Florida St,Nevada
+509,2017,1211,1305,0,0.12,Gonzaga,Nevada
+510,2017,1233,1305,0,0.42,Iona,Nevada
+511,2017,1235,1305,1,0.79,Iowa St,Nevada
+512,2017,1240,1305,1,0.69,Jacksonville St,Nevada
+513,2017,1242,1305,1,0.65,Kansas,Nevada
+514,2017,1243,1305,0,0.08,Kansas St,Nevada
+515,2017,1245,1305,0,0.17,Kent,Nevada
+516,2017,1246,1305,0,0.49,Kentucky,Nevada
+517,2017,1257,1305,0,0.03,Louisville,Nevada
+518,2017,1266,1305,1,0.65,Marquette,Nevada
+519,2017,1268,1305,1,0.92,Maryland,Nevada
+520,2017,1274,1305,1,0.86,Miami FL,Nevada
+521,2017,1276,1305,0,0.18,Michigan,Nevada
+522,2017,1277,1305,0,0.34,Michigan St,Nevada
+523,2017,1278,1305,0,0.06,Minnesota,Nevada
+524,2017,1291,1305,0,0.18,Mt St Mary's,Nevada
+525,2017,1292,1305,1,0.55,MTSU,Nevada
+526,2017,1297,1305,0,0.29,N Kentucky,Nevada
+527,2017,1300,1305,0,0.27,NC Central,Nevada
+528,2017,1112,1308,0,0.36,Arizona,New Mexico St
+529,2017,1116,1308,1,0.72,Arkansas,New Mexico St
+530,2017,1124,1308,0,0.44,Baylor,New Mexico St
+531,2017,1137,1308,1,0.73,Bucknell,New Mexico St
+532,2017,1139,1308,0,0.26,Butler,New Mexico St
+533,2017,1153,1308,1,0.59,Cincinnati,New Mexico St
+534,2017,1166,1308,0,0.46,Creighton,New Mexico St
+535,2017,1173,1308,1,0.89,Dayton,New Mexico St
+536,2017,1181,1308,1,0.51,Duke,New Mexico St
+537,2017,1190,1308,1,0.83,ETSU,New Mexico St
+538,2017,1195,1308,1,0.84,FL Gulf Coast,New Mexico St
+539,2017,1196,1308,1,0.65,Florida,New Mexico St
+540,2017,1199,1308,1,0.91,Florida St,New Mexico St
+541,2017,1211,1308,0,0.3,Gonzaga,New Mexico St
+542,2017,1233,1308,0,0.41,Iona,New Mexico St
+543,2017,1235,1308,0,0.07,Iowa St,New Mexico St
+544,2017,1240,1308,0,0.44,Jacksonville St,New Mexico St
+545,2017,1242,1308,0,0.43,Kansas,New Mexico St
+546,2017,1243,1308,0,0.43,Kansas St,New Mexico St
+547,2017,1245,1308,0,0.02,Kent,New Mexico St
+548,2017,1246,1308,0,0.18,Kentucky,New Mexico St
+549,2017,1257,1308,0,0.41,Louisville,New Mexico St
+550,2017,1266,1308,0,0.31,Marquette,New Mexico St
+551,2017,1268,1308,1,0.77,Maryland,New Mexico St
+552,2017,1274,1308,1,0.59,Miami FL,New Mexico St
+553,2017,1276,1308,0,0.44,Michigan,New Mexico St
+554,2017,1277,1308,0,0.19,Michigan St,New Mexico St
+555,2017,1278,1308,0,0.46,Minnesota,New Mexico St
+556,2017,1291,1308,1,0.68,Mt St Mary's,New Mexico St
+557,2017,1292,1308,1,0.74,MTSU,New Mexico St
+558,2017,1297,1308,0,0.31,N Kentucky,New Mexico St
+559,2017,1300,1308,1,0.56,NC Central,New Mexico St
+560,2017,1305,1308,0,0.21,Nevada,New Mexico St
+561,2017,1112,1309,1,0.52,Arizona,New Orleans
+562,2017,1116,1309,1,0.68,Arkansas,New Orleans
+563,2017,1124,1309,1,0.54,Baylor,New Orleans
+564,2017,1137,1309,0,0.11,Bucknell,New Orleans
+565,2017,1139,1309,0,0.31,Butler,New Orleans
+566,2017,1153,1309,1,0.76,Cincinnati,New Orleans
+567,2017,1166,1309,1,0.62,Creighton,New Orleans
+568,2017,1173,1309,1,0.76,Dayton,New Orleans
+569,2017,1181,1309,1,0.78,Duke,New Orleans
+570,2017,1190,1309,1,0.8,ETSU,New Orleans
+571,2017,1195,1309,1,0.69,FL Gulf Coast,New Orleans
+572,2017,1196,1309,1,0.64,Florida,New Orleans
+573,2017,1199,1309,0,0.43,Florida St,New Orleans
+574,2017,1211,1309,0,0.19,Gonzaga,New Orleans
+575,2017,1233,1309,1,0.57,Iona,New Orleans
+576,2017,1235,1309,0,0.42,Iowa St,New Orleans
+577,2017,1240,1309,0,0.49,Jacksonville St,New Orleans
+578,2017,1242,1309,1,0.7,Kansas,New Orleans
+579,2017,1243,1309,0,0.17,Kansas St,New Orleans
+580,2017,1245,1309,1,0.62,Kent,New Orleans
+581,2017,1246,1309,1,0.71,Kentucky,New Orleans
+582,2017,1257,1309,0,0.16,Louisville,New Orleans
+583,2017,1266,1309,1,0.63,Marquette,New Orleans
+584,2017,1268,1309,1,0.87,Maryland,New Orleans
+585,2017,1274,1309,1,0.84,Miami FL,New Orleans
+586,2017,1276,1309,0,0.46,Michigan,New Orleans
+587,2017,1277,1309,0,0.33,Michigan St,New Orleans
+588,2017,1278,1309,0,0.32,Minnesota,New Orleans
+589,2017,1291,1309,0,0.5,Mt St Mary's,New Orleans
+590,2017,1292,1309,1,0.57,MTSU,New Orleans
+591,2017,1297,1309,0,0.28,N Kentucky,New Orleans
+592,2017,1300,1309,0,0.48,NC Central,New Orleans
+593,2017,1305,1309,0,0.42,Nevada,New Orleans
+594,2017,1308,1309,0,0.45,New Mexico St,New Orleans
+595,2017,1112,1314,0,0.39,Arizona,North Carolina
+596,2017,1116,1314,1,0.58,Arkansas,North Carolina
+597,2017,1124,1314,1,0.58,Baylor,North Carolina
+598,2017,1137,1314,0,0.13,Bucknell,North Carolina
+599,2017,1139,1314,0,0.14,Butler,North Carolina
+600,2017,1153,1314,0,0.4,Cincinnati,North Carolina
+601,2017,1166,1314,0,0.5,Creighton,North Carolina
+602,2017,1173,1314,1,0.82,Dayton,North Carolina
+603,2017,1181,1314,0,0.46,Duke,North Carolina
+604,2017,1190,1314,1,0.53,ETSU,North Carolina
+605,2017,1195,1314,1,0.57,FL Gulf Coast,North Carolina
+606,2017,1196,1314,1,0.51,Florida,North Carolina
+607,2017,1199,1314,0,0.25,Florida St,North Carolina
+608,2017,1211,1314,0,0.22,Gonzaga,North Carolina
+609,2017,1233,1314,0,0.45,Iona,North Carolina
+610,2017,1235,1314,0,0.06,Iowa St,North Carolina
+611,2017,1240,1314,0,0.47,Jacksonville St,North Carolina
+612,2017,1242,1314,0,0.34,Kansas,North Carolina
+613,2017,1243,1314,0,0.08,Kansas St,North Carolina
+614,2017,1245,1314,0,0.17,Kent,North Carolina
+615,2017,1246,1314,0,0.26,Kentucky,North Carolina
+616,2017,1257,1314,0,0.09,Louisville,North Carolina
+617,2017,1266,1314,0,0.47,Marquette,North Carolina
+618,2017,1268,1314,1,0.84,Maryland,North Carolina
+619,2017,1274,1314,0,0.49,Miami FL,North Carolina
+620,2017,1276,1314,0,0.44,Michigan,North Carolina
+621,2017,1277,1314,1,0.51,Michigan St,North Carolina
+622,2017,1278,1314,0,0.09,Minnesota,North Carolina
+623,2017,1291,1314,0,0.39,Mt St Mary's,North Carolina
+624,2017,1292,1314,1,0.8,MTSU,North Carolina
+625,2017,1297,1314,0,0.47,N Kentucky,North Carolina
+626,2017,1300,1314,0,0.38,NC Central,North Carolina
+627,2017,1305,1314,1,0.56,Nevada,North Carolina
+628,2017,1308,1314,0,0.05,New Mexico St,North Carolina
+629,2017,1309,1314,0,0.43,New Orleans,North Carolina
+630,2017,1112,1315,0,0.43,Arizona,North Dakota
+631,2017,1116,1315,1,0.61,Arkansas,North Dakota
+632,2017,1124,1315,1,0.76,Baylor,North Dakota
+633,2017,1137,1315,1,0.73,Bucknell,North Dakota
+634,2017,1139,1315,1,0.8,Butler,North Dakota
+635,2017,1153,1315,0,0.42,Cincinnati,North Dakota
+636,2017,1166,1315,0,0.4,Creighton,North Dakota
+637,2017,1173,1315,1,0.93,Dayton,North Dakota
+638,2017,1181,1315,1,0.54,Duke,North Dakota
+639,2017,1190,1315,1,0.86,ETSU,North Dakota
+640,2017,1195,1315,1,0.82,FL Gulf Coast,North Dakota
+641,2017,1196,1315,0,0.22,Florida,North Dakota
+642,2017,1199,1315,1,0.8,Florida St,North Dakota
+643,2017,1211,1315,1,0.58,Gonzaga,North Dakota
+644,2017,1233,1315,0,0.37,Iona,North Dakota
+645,2017,1235,1315,1,0.72,Iowa St,North Dakota
+646,2017,1240,1315,0,0.28,Jacksonville St,North Dakota
+647,2017,1242,1315,0,0.42,Kansas,North Dakota
+648,2017,1243,1315,1,0.73,Kansas St,North Dakota
+649,2017,1245,1315,0,0.15,Kent,North Dakota
+650,2017,1246,1315,0,0.48,Kentucky,North Dakota
+651,2017,1257,1315,0,0.41,Louisville,North Dakota
+652,2017,1266,1315,0,0.24,Marquette,North Dakota
+653,2017,1268,1315,1,0.8,Maryland,North Dakota
+654,2017,1274,1315,1,0.9,Miami FL,North Dakota
+655,2017,1276,1315,0,0.43,Michigan,North Dakota
+656,2017,1277,1315,0,0.34,Michigan St,North Dakota
+657,2017,1278,1315,0,0.49,Minnesota,North Dakota
+658,2017,1291,1315,1,0.82,Mt St Mary's,North Dakota
+659,2017,1292,1315,0,0.4,MTSU,North Dakota
+660,2017,1297,1315,1,0.59,N Kentucky,North Dakota
+661,2017,1300,1315,1,0.63,NC Central,North Dakota
+662,2017,1305,1315,0,0.49,Nevada,North Dakota
+663,2017,1308,1315,0,0.45,New Mexico St,North Dakota
+664,2017,1309,1315,0,0.46,New Orleans,North Dakota
+665,2017,1314,1315,0,0.38,North Carolina,North Dakota
+666,2017,1112,1321,1,0.71,Arizona,Northwestern
+667,2017,1116,1321,1,0.75,Arkansas,Northwestern
+668,2017,1124,1321,0,0.38,Baylor,Northwestern
+669,2017,1137,1321,1,0.68,Bucknell,Northwestern
+670,2017,1139,1321,0,0.31,Butler,Northwestern
+671,2017,1153,1321,1,0.59,Cincinnati,Northwestern
+672,2017,1166,1321,1,0.57,Creighton,Northwestern
+673,2017,1173,1321,1,0.93,Dayton,Northwestern
+674,2017,1181,1321,1,0.64,Duke,Northwestern
+675,2017,1190,1321,1,0.92,ETSU,Northwestern
+676,2017,1195,1321,1,0.82,FL Gulf Coast,Northwestern
+677,2017,1196,1321,1,0.57,Florida,Northwestern
+678,2017,1199,1321,1,0.65,Florida St,Northwestern
+679,2017,1211,1321,0,0.21,Gonzaga,Northwestern
+680,2017,1233,1321,1,0.68,Iona,Northwestern
+681,2017,1235,1321,0,0.25,Iowa St,Northwestern
+682,2017,1240,1321,0,0.43,Jacksonville St,Northwestern
+683,2017,1242,1321,1,0.71,Kansas,Northwestern
+684,2017,1243,1321,0,0.25,Kansas St,Northwestern
+685,2017,1245,1321,0,0.36,Kent,Northwestern
+686,2017,1246,1321,0,0.45,Kentucky,Northwestern
+687,2017,1257,1321,0,0.31,Louisville,Northwestern
+688,2017,1266,1321,1,0.7,Marquette,Northwestern
+689,2017,1268,1321,1,0.82,Maryland,Northwestern
+690,2017,1274,1321,1,0.75,Miami FL,Northwestern
+691,2017,1276,1321,1,0.55,Michigan,Northwestern
+692,2017,1277,1321,0,0.47,Michigan St,Northwestern
+693,2017,1278,1321,0,0.27,Minnesota,Northwestern
+694,2017,1291,1321,1,0.6,Mt St Mary's,Northwestern
+695,2017,1292,1321,0,0.4,MTSU,Northwestern
+696,2017,1297,1321,0,0.44,N Kentucky,Northwestern
+697,2017,1300,1321,0,0.5,NC Central,Northwestern
+698,2017,1305,1321,0,0.5,Nevada,Northwestern
+699,2017,1308,1321,0,0.35,New Mexico St,Northwestern
+700,2017,1309,1321,0,0.49,New Orleans,Northwestern
+701,2017,1314,1321,1,0.52,North Carolina,Northwestern
+702,2017,1315,1321,1,0.56,North Dakota,Northwestern
+703,2017,1112,1323,1,0.69,Arizona,Notre Dame
+704,2017,1116,1323,1,0.69,Arkansas,Notre Dame
+705,2017,1124,1323,0,0.43,Baylor,Notre Dame
+706,2017,1137,1323,1,0.68,Bucknell,Notre Dame
+707,2017,1139,1323,0,0.27,Butler,Notre Dame
+708,2017,1153,1323,0,0.42,Cincinnati,Notre Dame
+709,2017,1166,1323,0,0.48,Creighton,Notre Dame
+710,2017,1173,1323,1,0.91,Dayton,Notre Dame
+711,2017,1181,1323,0,0.5,Duke,Notre Dame
+712,2017,1190,1323,1,0.69,ETSU,Notre Dame
+713,2017,1195,1323,1,0.78,FL Gulf Coast,Notre Dame
+714,2017,1196,1323,1,0.57,Florida,Notre Dame
+715,2017,1199,1323,0,0.33,Florida St,Notre Dame
+716,2017,1211,1323,0,0.27,Gonzaga,Notre Dame
+717,2017,1233,1323,0,0.45,Iona,Notre Dame
+718,2017,1235,1323,0,0.3,Iowa St,Notre Dame
+719,2017,1240,1323,0,0.49,Jacksonville St,Notre Dame
+720,2017,1242,1323,0,0.49,Kansas,Notre Dame
+721,2017,1243,1323,0,0.24,Kansas St,Notre Dame
+722,2017,1245,1323,0,0.24,Kent,Notre Dame
+723,2017,1246,1323,1,0.56,Kentucky,Notre Dame
+724,2017,1257,1323,0,0.33,Louisville,Notre Dame
+725,2017,1266,1323,0,0.43,Marquette,Notre Dame
+726,2017,1268,1323,1,0.81,Maryland,Notre Dame
+727,2017,1274,1323,1,0.55,Miami FL,Notre Dame
+728,2017,1276,1323,0,0.37,Michigan,Notre Dame
+729,2017,1277,1323,0,0.18,Michigan St,Notre Dame
+730,2017,1278,1323,0,0.49,Minnesota,Notre Dame
+731,2017,1291,1323,0,0.44,Mt St Mary's,Notre Dame
+732,2017,1292,1323,1,0.59,MTSU,Notre Dame
+733,2017,1297,1323,0,0.32,N Kentucky,Notre Dame
+734,2017,1300,1323,0,0.48,NC Central,Notre Dame
+735,2017,1305,1323,1,0.74,Nevada,Notre Dame
+736,2017,1308,1323,0,0.11,New Mexico St,Notre Dame
+737,2017,1309,1323,0,0.23,New Orleans,Notre Dame
+738,2017,1314,1323,0,0.49,North Carolina,Notre Dame
+739,2017,1315,1323,1,0.64,North Dakota,Notre Dame
+740,2017,1321,1323,1,0.6,Northwestern,Notre Dame
+741,2017,1112,1329,1,0.67,Arizona,Oklahoma St
+742,2017,1116,1329,1,0.76,Arkansas,Oklahoma St
+743,2017,1124,1329,0,0.22,Baylor,Oklahoma St
+744,2017,1137,1329,1,0.54,Bucknell,Oklahoma St
+745,2017,1139,1329,1,0.83,Butler,Oklahoma St
+746,2017,1153,1329,0,0.36,Cincinnati,Oklahoma St
+747,2017,1166,1329,1,0.58,Creighton,Oklahoma St
+748,2017,1173,1329,1,0.61,Dayton,Oklahoma St
+749,2017,1181,1329,0,0.43,Duke,Oklahoma St
+750,2017,1190,1329,0,0.11,ETSU,Oklahoma St
+751,2017,1195,1329,1,0.68,FL Gulf Coast,Oklahoma St
+752,2017,1196,1329,0,0.46,Florida,Oklahoma St
+753,2017,1199,1329,0,0.49,Florida St,Oklahoma St
+754,2017,1211,1329,0,0.39,Gonzaga,Oklahoma St
+755,2017,1233,1329,0,0.41,Iona,Oklahoma St
+756,2017,1235,1329,1,0.7,Iowa St,Oklahoma St
+757,2017,1240,1329,0,0.09,Jacksonville St,Oklahoma St
+758,2017,1242,1329,1,0.51,Kansas,Oklahoma St
+759,2017,1243,1329,0,0.34,Kansas St,Oklahoma St
+760,2017,1245,1329,1,0.59,Kent,Oklahoma St
+761,2017,1246,1329,1,0.74,Kentucky,Oklahoma St
+762,2017,1257,1329,0,0.39,Louisville,Oklahoma St
+763,2017,1266,1329,0,0.4,Marquette,Oklahoma St
+764,2017,1268,1329,0,0.25,Maryland,Oklahoma St
+765,2017,1274,1329,1,0.9,Miami FL,Oklahoma St
+766,2017,1276,1329,0,0.17,Michigan,Oklahoma St
+767,2017,1277,1329,0,0.14,Michigan St,Oklahoma St
+768,2017,1278,1329,0,0.31,Minnesota,Oklahoma St
+769,2017,1291,1329,0,0.47,Mt St Mary's,Oklahoma St
+770,2017,1292,1329,0,0.39,MTSU,Oklahoma St
+771,2017,1297,1329,0,0.48,N Kentucky,Oklahoma St
+772,2017,1300,1329,1,0.54,NC Central,Oklahoma St
+773,2017,1305,1329,0,0.47,Nevada,Oklahoma St
+774,2017,1308,1329,1,0.68,New Mexico St,Oklahoma St
+775,2017,1309,1329,0,0.17,New Orleans,Oklahoma St
+776,2017,1314,1329,0,0.44,North Carolina,Oklahoma St
+777,2017,1315,1329,0,0.2,North Dakota,Oklahoma St
+778,2017,1321,1329,0,0.49,Northwestern,Oklahoma St
+779,2017,1323,1329,1,0.68,Notre Dame,Oklahoma St
+780,2017,1112,1332,0,0.48,Arizona,Oregon
+781,2017,1116,1332,1,0.59,Arkansas,Oregon
+782,2017,1124,1332,1,0.67,Baylor,Oregon
+783,2017,1137,1332,0,0.26,Bucknell,Oregon
+784,2017,1139,1332,1,0.66,Butler,Oregon
+785,2017,1153,1332,1,0.66,Cincinnati,Oregon
+786,2017,1166,1332,0,0.26,Creighton,Oregon
+787,2017,1173,1332,1,0.91,Dayton,Oregon
+788,2017,1181,1332,1,0.63,Duke,Oregon
+789,2017,1190,1332,0,0.24,ETSU,Oregon
+790,2017,1195,1332,1,0.74,FL Gulf Coast,Oregon
+791,2017,1196,1332,1,0.53,Florida,Oregon
+792,2017,1199,1332,0,0.44,Florida St,Oregon
+793,2017,1211,1332,0,0.29,Gonzaga,Oregon
+794,2017,1233,1332,0,0.48,Iona,Oregon
+795,2017,1235,1332,1,0.54,Iowa St,Oregon
+796,2017,1240,1332,1,0.53,Jacksonville St,Oregon
+797,2017,1242,1332,1,0.82,Kansas,Oregon
+798,2017,1243,1332,0,0.48,Kansas St,Oregon
+799,2017,1245,1332,0,0.45,Kent,Oregon
+800,2017,1246,1332,0,0.49,Kentucky,Oregon
+801,2017,1257,1332,0,0.3,Louisville,Oregon
+802,2017,1266,1332,1,0.84,Marquette,Oregon
+803,2017,1268,1332,1,0.84,Maryland,Oregon
+804,2017,1274,1332,1,0.9,Miami FL,Oregon
+805,2017,1276,1332,0,0.44,Michigan,Oregon
+806,2017,1277,1332,0,0.17,Michigan St,Oregon
+807,2017,1278,1332,0,0.43,Minnesota,Oregon
+808,2017,1291,1332,0,0.43,Mt St Mary's,Oregon
+809,2017,1292,1332,0,0.28,MTSU,Oregon
+810,2017,1297,1332,1,0.58,N Kentucky,Oregon
+811,2017,1300,1332,0,0.49,NC Central,Oregon
+812,2017,1305,1332,1,0.6,Nevada,Oregon
+813,2017,1308,1332,0,0.2,New Mexico St,Oregon
+814,2017,1309,1332,0,0.44,New Orleans,Oregon
+815,2017,1314,1332,1,0.52,North Carolina,Oregon
+816,2017,1315,1332,0,0.41,North Dakota,Oregon
+817,2017,1321,1332,0,0.24,Northwestern,Oregon
+818,2017,1323,1332,0,0.44,Notre Dame,Oregon
+819,2017,1329,1332,0,0.39,Oklahoma St,Oregon
+820,2017,1112,1343,0,0.49,Arizona,Princeton
+821,2017,1116,1343,1,0.61,Arkansas,Princeton
+822,2017,1124,1343,1,0.75,Baylor,Princeton
+823,2017,1137,1343,1,0.66,Bucknell,Princeton
+824,2017,1139,1343,0,0.38,Butler,Princeton
+825,2017,1153,1343,0,0.3,Cincinnati,Princeton
+826,2017,1166,1343,0,0.36,Creighton,Princeton
+827,2017,1173,1343,1,0.55,Dayton,Princeton
+828,2017,1181,1343,1,0.65,Duke,Princeton
+829,2017,1190,1343,0,0.17,ETSU,Princeton
+830,2017,1195,1343,0,0.49,FL Gulf Coast,Princeton
+831,2017,1196,1343,1,0.66,Florida,Princeton
+832,2017,1199,1343,0,0.35,Florida St,Princeton
+833,2017,1211,1343,1,0.64,Gonzaga,Princeton
+834,2017,1233,1343,1,0.61,Iona,Princeton
+835,2017,1235,1343,0,0.33,Iowa St,Princeton
+836,2017,1240,1343,0,0.49,Jacksonville St,Princeton
+837,2017,1242,1343,0,0.41,Kansas,Princeton
+838,2017,1243,1343,1,0.63,Kansas St,Princeton
+839,2017,1245,1343,0,0.26,Kent,Princeton
+840,2017,1246,1343,0,0.45,Kentucky,Princeton
+841,2017,1257,1343,0,0.45,Louisville,Princeton
+842,2017,1266,1343,0,0.42,Marquette,Princeton
+843,2017,1268,1343,1,0.62,Maryland,Princeton
+844,2017,1274,1343,1,0.74,Miami FL,Princeton
+845,2017,1276,1343,0,0.38,Michigan,Princeton
+846,2017,1277,1343,1,0.65,Michigan St,Princeton
+847,2017,1278,1343,0,0.47,Minnesota,Princeton
+848,2017,1291,1343,0,0.31,Mt St Mary's,Princeton
+849,2017,1292,1343,1,0.66,MTSU,Princeton
+850,2017,1297,1343,0,0.23,N Kentucky,Princeton
+851,2017,1300,1343,0,0.43,NC Central,Princeton
+852,2017,1305,1343,0,0.27,Nevada,Princeton
+853,2017,1308,1343,1,0.58,New Mexico St,Princeton
+854,2017,1309,1343,0,0.46,New Orleans,Princeton
+855,2017,1314,1343,0,0.39,North Carolina,Princeton
+856,2017,1315,1343,0,0.23,North Dakota,Princeton
+857,2017,1321,1343,0,0.48,Northwestern,Princeton
+858,2017,1323,1343,0,0.45,Notre Dame,Princeton
+859,2017,1329,1343,1,0.54,Oklahoma St,Princeton
+860,2017,1332,1343,0,0.47,Oregon,Princeton
+861,2017,1112,1344,1,0.73,Arizona,Providence
+862,2017,1116,1344,0,0.42,Arkansas,Providence
+863,2017,1124,1344,1,0.7,Baylor,Providence
+864,2017,1137,1344,1,0.63,Bucknell,Providence
+865,2017,1139,1344,0,0.36,Butler,Providence
+866,2017,1153,1344,0,0.36,Cincinnati,Providence
+867,2017,1166,1344,0,0.14,Creighton,Providence
+868,2017,1173,1344,1,0.93,Dayton,Providence
+869,2017,1181,1344,1,0.74,Duke,Providence
+870,2017,1190,1344,0,0.2,ETSU,Providence
+871,2017,1195,1344,1,0.76,FL Gulf Coast,Providence
+872,2017,1196,1344,0,0.43,Florida,Providence
+873,2017,1199,1344,0,0.43,Florida St,Providence
+874,2017,1211,1344,1,0.58,Gonzaga,Providence
+875,2017,1233,1344,1,0.69,Iona,Providence
+876,2017,1235,1344,0,0.33,Iowa St,Providence
+877,2017,1240,1344,0,0.1,Jacksonville St,Providence
+878,2017,1242,1344,1,0.72,Kansas,Providence
+879,2017,1243,1344,1,0.54,Kansas St,Providence
+880,2017,1245,1344,0,0.47,Kent,Providence
+881,2017,1246,1344,1,0.62,Kentucky,Providence
+882,2017,1257,1344,1,0.52,Louisville,Providence
+883,2017,1266,1344,1,0.67,Marquette,Providence
+884,2017,1268,1344,0,0.3,Maryland,Providence
+885,2017,1274,1344,1,0.8,Miami FL,Providence
+886,2017,1276,1344,1,0.53,Michigan,Providence
+887,2017,1277,1344,0,0.5,Michigan St,Providence
+888,2017,1278,1344,0,0.49,Minnesota,Providence
+889,2017,1291,1344,0,0.38,Mt St Mary's,Providence
+890,2017,1292,1344,0,0.25,MTSU,Providence
+891,2017,1297,1344,1,0.75,N Kentucky,Providence
+892,2017,1300,1344,0,0.5,NC Central,Providence
+893,2017,1305,1344,0,0.41,Nevada,Providence
+894,2017,1308,1344,0,0.31,New Mexico St,Providence
+895,2017,1309,1344,1,0.59,New Orleans,Providence
+896,2017,1314,1344,0,0.13,North Carolina,Providence
+897,2017,1315,1344,1,0.52,North Dakota,Providence
+898,2017,1321,1344,1,0.6,Northwestern,Providence
+899,2017,1323,1344,0,0.21,Notre Dame,Providence
+900,2017,1329,1344,0,0.41,Oklahoma St,Providence
+901,2017,1332,1344,0,0.35,Oregon,Providence
+902,2017,1343,1344,0,0.28,Princeton,Providence
+903,2017,1112,1345,0,0.45,Arizona,Purdue
+904,2017,1116,1345,0,0.23,Arkansas,Purdue
+905,2017,1124,1345,1,0.63,Baylor,Purdue
+906,2017,1137,1345,1,0.56,Bucknell,Purdue
+907,2017,1139,1345,1,0.72,Butler,Purdue
+908,2017,1153,1345,1,0.58,Cincinnati,Purdue
+909,2017,1166,1345,1,0.64,Creighton,Purdue
+910,2017,1173,1345,1,0.84,Dayton,Purdue
+911,2017,1181,1345,0,0.37,Duke,Purdue
+912,2017,1190,1345,0,0.42,ETSU,Purdue
+913,2017,1195,1345,1,0.7,FL Gulf Coast,Purdue
+914,2017,1196,1345,0,0.26,Florida,Purdue
+915,2017,1199,1345,0,0.49,Florida St,Purdue
+916,2017,1211,1345,1,0.56,Gonzaga,Purdue
+917,2017,1233,1345,0,0.29,Iona,Purdue
+918,2017,1235,1345,0,0.45,Iowa St,Purdue
+919,2017,1240,1345,0,0.45,Jacksonville St,Purdue
+920,2017,1242,1345,1,0.64,Kansas,Purdue
+921,2017,1243,1345,0,0.38,Kansas St,Purdue
+922,2017,1245,1345,0,0.13,Kent,Purdue
+923,2017,1246,1345,1,0.62,Kentucky,Purdue
+924,2017,1257,1345,0,0.46,Louisville,Purdue
+925,2017,1266,1345,1,0.77,Marquette,Purdue
+926,2017,1268,1345,1,0.77,Maryland,Purdue
+927,2017,1274,1345,1,0.84,Miami FL,Purdue
+928,2017,1276,1345,0,0.13,Michigan,Purdue
+929,2017,1277,1345,1,0.51,Michigan St,Purdue
+930,2017,1278,1345,0,0.37,Minnesota,Purdue
+931,2017,1291,1345,0,0.42,Mt St Mary's,Purdue
+932,2017,1292,1345,0,0.38,MTSU,Purdue
+933,2017,1297,1345,1,0.67,N Kentucky,Purdue
+934,2017,1300,1345,0,0.47,NC Central,Purdue
+935,2017,1305,1345,1,0.56,Nevada,Purdue
+936,2017,1308,1345,0,0.49,New Mexico St,Purdue
+937,2017,1309,1345,0,0.07,New Orleans,Purdue
+938,2017,1314,1345,0,0.5,North Carolina,Purdue
+939,2017,1315,1345,1,0.52,North Dakota,Purdue
+940,2017,1321,1345,0,0.47,Northwestern,Purdue
+941,2017,1323,1345,1,0.63,Notre Dame,Purdue
+942,2017,1329,1345,0,0.33,Oklahoma St,Purdue
+943,2017,1332,1345,0,0.45,Oregon,Purdue
+944,2017,1343,1345,1,0.52,Princeton,Purdue
+945,2017,1344,1345,1,0.83,Providence,Purdue
+946,2017,1112,1348,0,0.48,Arizona,Rhode Island
+947,2017,1116,1348,1,0.59,Arkansas,Rhode Island
+948,2017,1124,1348,0,0.45,Baylor,Rhode Island
+949,2017,1137,1348,1,0.53,Bucknell,Rhode Island
+950,2017,1139,1348,1,0.6,Butler,Rhode Island
+951,2017,1153,1348,1,0.65,Cincinnati,Rhode Island
+952,2017,1166,1348,0,0.4,Creighton,Rhode Island
+953,2017,1173,1348,1,0.72,Dayton,Rhode Island
+954,2017,1181,1348,1,0.63,Duke,Rhode Island
+955,2017,1190,1348,0,0.36,ETSU,Rhode Island
+956,2017,1195,1348,0,0.36,FL Gulf Coast,Rhode Island
+957,2017,1196,1348,1,0.63,Florida,Rhode Island
+958,2017,1199,1348,0,0.07,Florida St,Rhode Island
+959,2017,1211,1348,0,0.36,Gonzaga,Rhode Island
+960,2017,1233,1348,0,0.36,Iona,Rhode Island
+961,2017,1235,1348,0,0.44,Iowa St,Rhode Island
+962,2017,1240,1348,0,0.25,Jacksonville St,Rhode Island
+963,2017,1242,1348,1,0.66,Kansas,Rhode Island
+964,2017,1243,1348,1,0.51,Kansas St,Rhode Island
+965,2017,1245,1348,0,0.25,Kent,Rhode Island
+966,2017,1246,1348,0,0.43,Kentucky,Rhode Island
+967,2017,1257,1348,1,0.58,Louisville,Rhode Island
+968,2017,1266,1348,1,0.66,Marquette,Rhode Island
+969,2017,1268,1348,1,0.74,Maryland,Rhode Island
+970,2017,1274,1348,1,0.83,Miami FL,Rhode Island
+971,2017,1276,1348,0,0.49,Michigan,Rhode Island
+972,2017,1277,1348,0,0.24,Michigan St,Rhode Island
+973,2017,1278,1348,0,0.48,Minnesota,Rhode Island
+974,2017,1291,1348,0,0.17,Mt St Mary's,Rhode Island
+975,2017,1292,1348,1,0.53,MTSU,Rhode Island
+976,2017,1297,1348,0,0.25,N Kentucky,Rhode Island
+977,2017,1300,1348,1,0.55,NC Central,Rhode Island
+978,2017,1305,1348,0,0.41,Nevada,Rhode Island
+979,2017,1308,1348,1,0.6,New Mexico St,Rhode Island
+980,2017,1309,1348,0,0.43,New Orleans,Rhode Island
+981,2017,1314,1348,0,0.5,North Carolina,Rhode Island
+982,2017,1315,1348,0,0.42,North Dakota,Rhode Island
+983,2017,1321,1348,1,0.55,Northwestern,Rhode Island
+984,2017,1323,1348,0,0.36,Notre Dame,Rhode Island
+985,2017,1329,1348,1,0.52,Oklahoma St,Rhode Island
+986,2017,1332,1348,1,0.66,Oregon,Rhode Island
+987,2017,1343,1348,0,0.38,Princeton,Rhode Island
+988,2017,1344,1348,0,0.34,Providence,Rhode Island
+989,2017,1345,1348,0,0.36,Purdue,Rhode Island
+990,2017,1112,1355,1,0.75,Arizona,S Dakota St
+991,2017,1116,1355,1,0.52,Arkansas,S Dakota St
+992,2017,1124,1355,1,0.53,Baylor,S Dakota St
+993,2017,1137,1355,1,0.56,Bucknell,S Dakota St
+994,2017,1139,1355,1,0.54,Butler,S Dakota St
+995,2017,1153,1355,1,0.73,Cincinnati,S Dakota St
+996,2017,1166,1355,0,0.27,Creighton,S Dakota St
+997,2017,1173,1355,1,0.91,Dayton,S Dakota St
+998,2017,1181,1355,0,0.38,Duke,S Dakota St
+999,2017,1190,1355,0,0.23,ETSU,S Dakota St
+1000,2017,1195,1355,1,0.77,FL Gulf Coast,S Dakota St
+1001,2017,1196,1355,1,0.66,Florida,S Dakota St
+1002,2017,1199,1355,1,0.51,Florida St,S Dakota St
+1003,2017,1211,1355,0,0.5,Gonzaga,S Dakota St
+1004,2017,1233,1355,0,0.13,Iona,S Dakota St
+1005,2017,1235,1355,0,0.2,Iowa St,S Dakota St
+1006,2017,1240,1355,0,0.09,Jacksonville St,S Dakota St
+1007,2017,1242,1355,1,0.73,Kansas,S Dakota St
+1008,2017,1243,1355,0,0.47,Kansas St,S Dakota St
+1009,2017,1245,1355,0,0.24,Kent,S Dakota St
+1010,2017,1246,1355,1,0.72,Kentucky,S Dakota St
+1011,2017,1257,1355,0,0.42,Louisville,S Dakota St
+1012,2017,1266,1355,1,0.82,Marquette,S Dakota St
+1013,2017,1268,1355,0,0.43,Maryland,S Dakota St
+1014,2017,1274,1355,1,0.8,Miami FL,S Dakota St
+1015,2017,1276,1355,0,0.13,Michigan,S Dakota St
+1016,2017,1277,1355,0,0.35,Michigan St,S Dakota St
+1017,2017,1278,1355,1,0.56,Minnesota,S Dakota St
+1018,2017,1291,1355,1,0.57,Mt St Mary's,S Dakota St
+1019,2017,1292,1355,1,0.62,MTSU,S Dakota St
+1020,2017,1297,1355,0,0.49,N Kentucky,S Dakota St
+1021,2017,1300,1355,1,0.51,NC Central,S Dakota St
+1022,2017,1305,1355,0,0.34,Nevada,S Dakota St
+1023,2017,1308,1355,1,0.52,New Mexico St,S Dakota St
+1024,2017,1309,1355,0,0.14,New Orleans,S Dakota St
+1025,2017,1314,1355,0,0.22,North Carolina,S Dakota St
+1026,2017,1315,1355,1,0.59,North Dakota,S Dakota St
+1027,2017,1321,1355,0,0.25,Northwestern,S Dakota St
+1028,2017,1323,1355,0,0.3,Notre Dame,S Dakota St
+1029,2017,1329,1355,1,0.52,Oklahoma St,S Dakota St
+1030,2017,1332,1355,1,0.78,Oregon,S Dakota St
+1031,2017,1343,1355,0,0.47,Princeton,S Dakota St
+1032,2017,1344,1355,0,0.46,Providence,S Dakota St
+1033,2017,1345,1355,0,0.17,Purdue,S Dakota St
+1034,2017,1348,1355,0,0.49,Rhode Island,S Dakota St
+1035,2017,1112,1371,1,0.63,Arizona,Seton Hall
+1036,2017,1116,1371,0,0.4,Arkansas,Seton Hall
+1037,2017,1124,1371,1,0.68,Baylor,Seton Hall
+1038,2017,1137,1371,0,0.47,Bucknell,Seton Hall
+1039,2017,1139,1371,0,0.24,Butler,Seton Hall
+1040,2017,1153,1371,0,0.35,Cincinnati,Seton Hall
+1041,2017,1166,1371,1,0.67,Creighton,Seton Hall
+1042,2017,1173,1371,1,0.94,Dayton,Seton Hall
+1043,2017,1181,1371,1,0.64,Duke,Seton Hall
+1044,2017,1190,1371,0,0.48,ETSU,Seton Hall
+1045,2017,1195,1371,0,0.48,FL Gulf Coast,Seton Hall
+1046,2017,1196,1371,1,0.65,Florida,Seton Hall
+1047,2017,1199,1371,0,0.48,Florida St,Seton Hall
+1048,2017,1211,1371,0,0.44,Gonzaga,Seton Hall
+1049,2017,1233,1371,1,0.71,Iona,Seton Hall
+1050,2017,1235,1371,1,0.51,Iowa St,Seton Hall
+1051,2017,1240,1371,1,0.76,Jacksonville St,Seton Hall
+1052,2017,1242,1371,1,0.58,Kansas,Seton Hall
+1053,2017,1243,1371,0,0.16,Kansas St,Seton Hall
+1054,2017,1245,1371,1,0.75,Kent,Seton Hall
+1055,2017,1246,1371,1,0.81,Kentucky,Seton Hall
+1056,2017,1257,1371,0,0.19,Louisville,Seton Hall
+1057,2017,1266,1371,0,0.46,Marquette,Seton Hall
+1058,2017,1268,1371,1,0.91,Maryland,Seton Hall
+1059,2017,1274,1371,1,0.78,Miami FL,Seton Hall
+1060,2017,1276,1371,0,0.48,Michigan,Seton Hall
+1061,2017,1277,1371,0,0.45,Michigan St,Seton Hall
+1062,2017,1278,1371,0,0.28,Minnesota,Seton Hall
+1063,2017,1291,1371,1,0.55,Mt St Mary's,Seton Hall
+1064,2017,1292,1371,1,0.6,MTSU,Seton Hall
+1065,2017,1297,1371,0,0.19,N Kentucky,Seton Hall
+1066,2017,1300,1371,1,0.53,NC Central,Seton Hall
+1067,2017,1305,1371,1,0.64,Nevada,Seton Hall
+1068,2017,1308,1371,0,0.37,New Mexico St,Seton Hall
+1069,2017,1309,1371,1,0.58,New Orleans,Seton Hall
+1070,2017,1314,1371,1,0.54,North Carolina,Seton Hall
+1071,2017,1315,1371,0,0.5,North Dakota,Seton Hall
+1072,2017,1321,1371,0,0.15,Northwestern,Seton Hall
+1073,2017,1323,1371,1,0.66,Notre Dame,Seton Hall
+1074,2017,1329,1371,0,0.28,Oklahoma St,Seton Hall
+1075,2017,1332,1371,0,0.35,Oregon,Seton Hall
+1076,2017,1343,1371,1,0.78,Princeton,Seton Hall
+1077,2017,1344,1371,0,0.15,Providence,Seton Hall
+1078,2017,1345,1371,1,0.55,Purdue,Seton Hall
+1079,2017,1348,1371,0,0.09,Rhode Island,Seton Hall
+1080,2017,1355,1371,0,0.25,S Dakota St,Seton Hall
+1081,2017,1112,1374,1,0.67,Arizona,SMU
+1082,2017,1116,1374,0,0.48,Arkansas,SMU
+1083,2017,1124,1374,0,0.47,Baylor,SMU
+1084,2017,1137,1374,0,0.34,Bucknell,SMU
+1085,2017,1139,1374,1,0.6,Butler,SMU
+1086,2017,1153,1374,0,0.26,Cincinnati,SMU
+1087,2017,1166,1374,1,0.51,Creighton,SMU
+1088,2017,1173,1374,1,0.84,Dayton,SMU
+1089,2017,1181,1374,0,0.43,Duke,SMU
+1090,2017,1190,1374,0,0.19,ETSU,SMU
+1091,2017,1195,1374,1,0.56,FL Gulf Coast,SMU
+1092,2017,1196,1374,0,0.21,Florida,SMU
+1093,2017,1199,1374,0,0.03,Florida St,SMU
+1094,2017,1211,1374,0,0.46,Gonzaga,SMU
+1095,2017,1233,1374,1,0.61,Iona,SMU
+1096,2017,1235,1374,0,0.0,Iowa St,SMU
+1097,2017,1240,1374,0,0.29,Jacksonville St,SMU
+1098,2017,1242,1374,1,0.67,Kansas,SMU
+1099,2017,1243,1374,1,0.73,Kansas St,SMU
+1100,2017,1245,1374,1,0.7,Kent,SMU
+1101,2017,1246,1374,1,0.57,Kentucky,SMU
+1102,2017,1257,1374,0,0.41,Louisville,SMU
+1103,2017,1266,1374,1,0.66,Marquette,SMU
+1104,2017,1268,1374,1,0.62,Maryland,SMU
+1105,2017,1274,1374,0,0.5,Miami FL,SMU
+1106,2017,1276,1374,0,0.43,Michigan,SMU
+1107,2017,1277,1374,0,0.41,Michigan St,SMU
+1108,2017,1278,1374,1,0.52,Minnesota,SMU
+1109,2017,1291,1374,0,0.18,Mt St Mary's,SMU
+1110,2017,1292,1374,0,0.26,MTSU,SMU
+1111,2017,1297,1374,0,0.1,N Kentucky,SMU
+1112,2017,1300,1374,1,0.54,NC Central,SMU
+1113,2017,1305,1374,0,0.4,Nevada,SMU
+1114,2017,1308,1374,0,0.42,New Mexico St,SMU
+1115,2017,1309,1374,0,0.24,New Orleans,SMU
+1116,2017,1314,1374,0,0.13,North Carolina,SMU
+1117,2017,1315,1374,1,0.54,North Dakota,SMU
+1118,2017,1321,1374,0,0.18,Northwestern,SMU
+1119,2017,1323,1374,1,0.54,Notre Dame,SMU
+1120,2017,1329,1374,1,0.6,Oklahoma St,SMU
+1121,2017,1332,1374,0,0.38,Oregon,SMU
+1122,2017,1343,1374,0,0.48,Princeton,SMU
+1123,2017,1344,1374,0,0.4,Providence,SMU
+1124,2017,1345,1374,0,0.11,Purdue,SMU
+1125,2017,1348,1374,0,0.06,Rhode Island,SMU
+1126,2017,1355,1374,0,0.2,S Dakota St,SMU
+1127,2017,1371,1374,0,0.0,Seton Hall,SMU
+1128,2017,1112,1376,1,0.68,Arizona,South Carolina
+1129,2017,1116,1376,1,0.64,Arkansas,South Carolina
+1130,2017,1124,1376,1,0.58,Baylor,South Carolina
+1131,2017,1137,1376,1,0.68,Bucknell,South Carolina
+1132,2017,1139,1376,1,0.51,Butler,South Carolina
+1133,2017,1153,1376,0,0.22,Cincinnati,South Carolina
+1134,2017,1166,1376,0,0.42,Creighton,South Carolina
+1135,2017,1173,1376,1,0.89,Dayton,South Carolina
+1136,2017,1181,1376,1,0.55,Duke,South Carolina
+1137,2017,1190,1376,0,0.18,ETSU,South Carolina
+1138,2017,1195,1376,1,0.68,FL Gulf Coast,South Carolina
+1139,2017,1196,1376,1,0.51,Florida,South Carolina
+1140,2017,1199,1376,0,0.44,Florida St,South Carolina
+1141,2017,1211,1376,0,0.48,Gonzaga,South Carolina
+1142,2017,1233,1376,0,0.37,Iona,South Carolina
+1143,2017,1235,1376,0,0.43,Iowa St,South Carolina
+1144,2017,1240,1376,0,0.48,Jacksonville St,South Carolina
+1145,2017,1242,1376,1,0.8,Kansas,South Carolina
+1146,2017,1243,1376,0,0.25,Kansas St,South Carolina
+1147,2017,1245,1376,1,0.7,Kent,South Carolina
+1148,2017,1246,1376,1,0.54,Kentucky,South Carolina
+1149,2017,1257,1376,1,0.54,Louisville,South Carolina
+1150,2017,1266,1376,1,0.92,Marquette,South Carolina
+1151,2017,1268,1376,1,0.62,Maryland,South Carolina
+1152,2017,1274,1376,1,0.84,Miami FL,South Carolina
+1153,2017,1276,1376,0,0.36,Michigan,South Carolina
+1154,2017,1277,1376,0,0.34,Michigan St,South Carolina
+1155,2017,1278,1376,0,0.5,Minnesota,South Carolina
+1156,2017,1291,1376,0,0.41,Mt St Mary's,South Carolina
+1157,2017,1292,1376,0,0.26,MTSU,South Carolina
+1158,2017,1297,1376,0,0.13,N Kentucky,South Carolina
+1159,2017,1300,1376,1,0.53,NC Central,South Carolina
+1160,2017,1305,1376,0,0.37,Nevada,South Carolina
+1161,2017,1308,1376,0,0.49,New Mexico St,South Carolina
+1162,2017,1309,1376,0,0.23,New Orleans,South Carolina
+1163,2017,1314,1376,0,0.05,North Carolina,South Carolina
+1164,2017,1315,1376,1,0.55,North Dakota,South Carolina
+1165,2017,1321,1376,0,0.4,Northwestern,South Carolina
+1166,2017,1323,1376,0,0.47,Notre Dame,South Carolina
+1167,2017,1329,1376,0,0.33,Oklahoma St,South Carolina
+1168,2017,1332,1376,0,0.09,Oregon,South Carolina
+1169,2017,1343,1376,0,0.34,Princeton,South Carolina
+1170,2017,1344,1376,1,0.66,Providence,South Carolina
+1171,2017,1345,1376,0,0.41,Purdue,South Carolina
+1172,2017,1348,1376,0,0.09,Rhode Island,South Carolina
+1173,2017,1355,1376,0,0.36,S Dakota St,South Carolina
+1174,2017,1371,1376,0,0.24,Seton Hall,South Carolina
+1175,2017,1374,1376,0,0.19,SMU,South Carolina
+1176,2017,1112,1388,0,0.35,Arizona,St Mary's CA
+1177,2017,1116,1388,0,0.49,Arkansas,St Mary's CA
+1178,2017,1124,1388,1,0.69,Baylor,St Mary's CA
+1179,2017,1137,1388,1,0.68,Bucknell,St Mary's CA
+1180,2017,1139,1388,0,0.44,Butler,St Mary's CA
+1181,2017,1153,1388,1,0.78,Cincinnati,St Mary's CA
+1182,2017,1166,1388,1,0.52,Creighton,St Mary's CA
+1183,2017,1173,1388,1,0.92,Dayton,St Mary's CA
+1184,2017,1181,1388,1,0.65,Duke,St Mary's CA
+1185,2017,1190,1388,0,0.22,ETSU,St Mary's CA
+1186,2017,1195,1388,1,0.56,FL Gulf Coast,St Mary's CA
+1187,2017,1196,1388,0,0.26,Florida,St Mary's CA
+1188,2017,1199,1388,0,0.37,Florida St,St Mary's CA
+1189,2017,1211,1388,1,0.64,Gonzaga,St Mary's CA
+1190,2017,1233,1388,1,0.76,Iona,St Mary's CA
+1191,2017,1235,1388,0,0.27,Iowa St,St Mary's CA
+1192,2017,1240,1388,0,0.26,Jacksonville St,St Mary's CA
+1193,2017,1242,1388,1,0.76,Kansas,St Mary's CA
+1194,2017,1243,1388,0,0.23,Kansas St,St Mary's CA
+1195,2017,1245,1388,0,0.4,Kent,St Mary's CA
+1196,2017,1246,1388,0,0.37,Kentucky,St Mary's CA
+1197,2017,1257,1388,0,0.24,Louisville,St Mary's CA
+1198,2017,1266,1388,1,0.82,Marquette,St Mary's CA
+1199,2017,1268,1388,1,0.82,Maryland,St Mary's CA
+1200,2017,1274,1388,1,0.74,Miami FL,St Mary's CA
+1201,2017,1276,1388,1,0.54,Michigan,St Mary's CA
+1202,2017,1277,1388,1,0.59,Michigan St,St Mary's CA
+1203,2017,1278,1388,0,0.34,Minnesota,St Mary's CA
+1204,2017,1291,1388,0,0.34,Mt St Mary's,St Mary's CA
+1205,2017,1292,1388,0,0.15,MTSU,St Mary's CA
+1206,2017,1297,1388,1,0.63,N Kentucky,St Mary's CA
+1207,2017,1300,1388,0,0.44,NC Central,St Mary's CA
+1208,2017,1305,1388,0,0.48,Nevada,St Mary's CA
+1209,2017,1308,1388,0,0.22,New Mexico St,St Mary's CA
+1210,2017,1309,1388,1,0.54,New Orleans,St Mary's CA
+1211,2017,1314,1388,0,0.07,North Carolina,St Mary's CA
+1212,2017,1315,1388,0,0.48,North Dakota,St Mary's CA
+1213,2017,1321,1388,1,0.53,Northwestern,St Mary's CA
+1214,2017,1323,1388,0,0.47,Notre Dame,St Mary's CA
+1215,2017,1329,1388,0,0.09,Oklahoma St,St Mary's CA
+1216,2017,1332,1388,1,0.84,Oregon,St Mary's CA
+1217,2017,1343,1388,1,0.55,Princeton,St Mary's CA
+1218,2017,1344,1388,0,0.42,Providence,St Mary's CA
+1219,2017,1345,1388,0,0.18,Purdue,St Mary's CA
+1220,2017,1348,1388,1,0.66,Rhode Island,St Mary's CA
+1221,2017,1355,1388,0,0.4,S Dakota St,St Mary's CA
+1222,2017,1371,1388,0,0.14,Seton Hall,St Mary's CA
+1223,2017,1374,1388,1,0.56,SMU,St Mary's CA
+1224,2017,1376,1388,1,0.71,South Carolina,St Mary's CA
+1225,2017,1112,1407,1,0.56,Arizona,Troy
+1226,2017,1116,1407,0,0.32,Arkansas,Troy
+1227,2017,1124,1407,1,0.67,Baylor,Troy
+1228,2017,1137,1407,1,0.6,Bucknell,Troy
+1229,2017,1139,1407,1,0.51,Butler,Troy
+1230,2017,1153,1407,0,0.43,Cincinnati,Troy
+1231,2017,1166,1407,0,0.45,Creighton,Troy
+1232,2017,1173,1407,1,0.82,Dayton,Troy
+1233,2017,1181,1407,1,0.72,Duke,Troy
+1234,2017,1190,1407,0,0.15,ETSU,Troy
+1235,2017,1195,1407,0,0.42,FL Gulf Coast,Troy
+1236,2017,1196,1407,1,0.55,Florida,Troy
+1237,2017,1199,1407,0,0.05,Florida St,Troy
+1238,2017,1211,1407,0,0.49,Gonzaga,Troy
+1239,2017,1233,1407,1,0.59,Iona,Troy
+1240,2017,1235,1407,0,0.02,Iowa St,Troy
+1241,2017,1240,1407,1,0.56,Jacksonville St,Troy
+1242,2017,1242,1407,1,0.85,Kansas,Troy
+1243,2017,1243,1407,0,0.21,Kansas St,Troy
+1244,2017,1245,1407,1,0.58,Kent,Troy
+1245,2017,1246,1407,0,0.15,Kentucky,Troy
+1246,2017,1257,1407,1,0.8,Louisville,Troy
+1247,2017,1266,1407,1,0.51,Marquette,Troy
+1248,2017,1268,1407,1,0.81,Maryland,Troy
+1249,2017,1274,1407,1,0.6,Miami FL,Troy
+1250,2017,1276,1407,0,0.39,Michigan,Troy
+1251,2017,1277,1407,0,0.39,Michigan St,Troy
+1252,2017,1278,1407,1,0.56,Minnesota,Troy
+1253,2017,1291,1407,0,0.14,Mt St Mary's,Troy
+1254,2017,1292,1407,1,0.76,MTSU,Troy
+1255,2017,1297,1407,1,0.56,N Kentucky,Troy
+1256,2017,1300,1407,0,0.49,NC Central,Troy
+1257,2017,1305,1407,0,0.49,Nevada,Troy
+1258,2017,1308,1407,1,0.55,New Mexico St,Troy
+1259,2017,1309,1407,0,0.44,New Orleans,Troy
+1260,2017,1314,1407,1,0.51,North Carolina,Troy
+1261,2017,1315,1407,0,0.4,North Dakota,Troy
+1262,2017,1321,1407,0,0.5,Northwestern,Troy
+1263,2017,1323,1407,0,0.46,Notre Dame,Troy
+1264,2017,1329,1407,0,0.17,Oklahoma St,Troy
+1265,2017,1332,1407,0,0.46,Oregon,Troy
+1266,2017,1343,1407,0,0.44,Princeton,Troy
+1267,2017,1344,1407,0,0.43,Providence,Troy
+1268,2017,1345,1407,0,0.08,Purdue,Troy
+1269,2017,1348,1407,0,0.26,Rhode Island,Troy
+1270,2017,1355,1407,1,0.73,S Dakota St,Troy
+1271,2017,1371,1407,0,0.05,Seton Hall,Troy
+1272,2017,1374,1407,0,0.18,SMU,Troy
+1273,2017,1376,1407,1,0.55,South Carolina,Troy
+1274,2017,1388,1407,1,0.67,St Mary's CA,Troy
+1275,2017,1112,1411,1,0.71,Arizona,TX Southern
+1276,2017,1116,1411,1,0.6,Arkansas,TX Southern
+1277,2017,1124,1411,1,0.66,Baylor,TX Southern
+1278,2017,1137,1411,0,0.28,Bucknell,TX Southern
+1279,2017,1139,1411,1,0.65,Butler,TX Southern
+1280,2017,1153,1411,0,0.3,Cincinnati,TX Southern
+1281,2017,1166,1411,0,0.37,Creighton,TX Southern
+1282,2017,1173,1411,1,0.82,Dayton,TX Southern
+1283,2017,1181,1411,1,0.6,Duke,TX Southern
+1284,2017,1190,1411,1,0.53,ETSU,TX Southern
+1285,2017,1195,1411,1,0.81,FL Gulf Coast,TX Southern
+1286,2017,1196,1411,0,0.44,Florida,TX Southern
+1287,2017,1199,1411,1,0.8,Florida St,TX Southern
+1288,2017,1211,1411,0,0.47,Gonzaga,TX Southern
+1289,2017,1233,1411,1,0.53,Iona,TX Southern
+1290,2017,1235,1411,0,0.33,Iowa St,TX Southern
+1291,2017,1240,1411,1,0.73,Jacksonville St,TX Southern
+1292,2017,1242,1411,1,0.51,Kansas,TX Southern
+1293,2017,1243,1411,0,0.31,Kansas St,TX Southern
+1294,2017,1245,1411,1,0.74,Kent,TX Southern
+1295,2017,1246,1411,1,0.51,Kentucky,TX Southern
+1296,2017,1257,1411,1,0.74,Louisville,TX Southern
+1297,2017,1266,1411,1,0.78,Marquette,TX Southern
+1298,2017,1268,1411,1,0.79,Maryland,TX Southern
+1299,2017,1274,1411,1,0.75,Miami FL,TX Southern
+1300,2017,1276,1411,0,0.36,Michigan,TX Southern
+1301,2017,1277,1411,0,0.38,Michigan St,TX Southern
+1302,2017,1278,1411,0,0.21,Minnesota,TX Southern
+1303,2017,1291,1411,1,0.74,Mt St Mary's,TX Southern
+1304,2017,1292,1411,0,0.29,MTSU,TX Southern
+1305,2017,1297,1411,0,0.25,N Kentucky,TX Southern
+1306,2017,1300,1411,1,0.61,NC Central,TX Southern
+1307,2017,1305,1411,1,0.7,Nevada,TX Southern
+1308,2017,1308,1411,1,0.61,New Mexico St,TX Southern
+1309,2017,1309,1411,0,0.35,New Orleans,TX Southern
+1310,2017,1314,1411,0,0.38,North Carolina,TX Southern
+1311,2017,1315,1411,0,0.46,North Dakota,TX Southern
+1312,2017,1321,1411,1,0.54,Northwestern,TX Southern
+1313,2017,1323,1411,0,0.49,Notre Dame,TX Southern
+1314,2017,1329,1411,0,0.44,Oklahoma St,TX Southern
+1315,2017,1332,1411,0,0.24,Oregon,TX Southern
+1316,2017,1343,1411,0,0.36,Princeton,TX Southern
+1317,2017,1344,1411,1,0.75,Providence,TX Southern
+1318,2017,1345,1411,0,0.36,Purdue,TX Southern
+1319,2017,1348,1411,0,0.13,Rhode Island,TX Southern
+1320,2017,1355,1411,0,0.08,S Dakota St,TX Southern
+1321,2017,1371,1411,1,0.65,Seton Hall,TX Southern
+1322,2017,1374,1411,0,0.12,SMU,TX Southern
+1323,2017,1376,1411,1,0.54,South Carolina,TX Southern
+1324,2017,1388,1411,0,0.3,St Mary's CA,TX Southern
+1325,2017,1407,1411,0,0.35,Troy,TX Southern
+1326,2017,1112,1413,1,0.54,Arizona,UC Davis
+1327,2017,1116,1413,1,0.6,Arkansas,UC Davis
+1328,2017,1124,1413,1,0.69,Baylor,UC Davis
+1329,2017,1137,1413,0,0.5,Bucknell,UC Davis
+1330,2017,1139,1413,0,0.43,Butler,UC Davis
+1331,2017,1153,1413,1,0.84,Cincinnati,UC Davis
+1332,2017,1166,1413,0,0.42,Creighton,UC Davis
+1333,2017,1173,1413,1,0.75,Dayton,UC Davis
+1334,2017,1181,1413,1,0.59,Duke,UC Davis
+1335,2017,1190,1413,0,0.11,ETSU,UC Davis
+1336,2017,1195,1413,1,0.77,FL Gulf Coast,UC Davis
+1337,2017,1196,1413,0,0.36,Florida,UC Davis
+1338,2017,1199,1413,0,0.26,Florida St,UC Davis
+1339,2017,1211,1413,1,0.59,Gonzaga,UC Davis
+1340,2017,1233,1413,1,0.53,Iona,UC Davis
+1341,2017,1235,1413,0,0.19,Iowa St,UC Davis
+1342,2017,1240,1413,1,0.56,Jacksonville St,UC Davis
+1343,2017,1242,1413,1,0.59,Kansas,UC Davis
+1344,2017,1243,1413,0,0.48,Kansas St,UC Davis
+1345,2017,1245,1413,0,0.45,Kent,UC Davis
+1346,2017,1246,1413,0,0.47,Kentucky,UC Davis
+1347,2017,1257,1413,1,0.8,Louisville,UC Davis
+1348,2017,1266,1413,1,0.91,Marquette,UC Davis
+1349,2017,1268,1413,1,0.58,Maryland,UC Davis
+1350,2017,1274,1413,1,0.69,Miami FL,UC Davis
+1351,2017,1276,1413,0,0.37,Michigan,UC Davis
+1352,2017,1277,1413,0,0.47,Michigan St,UC Davis
+1353,2017,1278,1413,0,0.09,Minnesota,UC Davis
+1354,2017,1291,1413,0,0.25,Mt St Mary's,UC Davis
+1355,2017,1292,1413,0,0.21,MTSU,UC Davis
+1356,2017,1297,1413,1,0.67,N Kentucky,UC Davis
+1357,2017,1300,1413,0,0.33,NC Central,UC Davis
+1358,2017,1305,1413,0,0.23,Nevada,UC Davis
+1359,2017,1308,1413,0,0.27,New Mexico St,UC Davis
+1360,2017,1309,1413,0,0.37,New Orleans,UC Davis
+1361,2017,1314,1413,0,0.23,North Carolina,UC Davis
+1362,2017,1315,1413,1,0.57,North Dakota,UC Davis
+1363,2017,1321,1413,0,0.49,Northwestern,UC Davis
+1364,2017,1323,1413,0,0.44,Notre Dame,UC Davis
+1365,2017,1329,1413,0,0.41,Oklahoma St,UC Davis
+1366,2017,1332,1413,1,0.84,Oregon,UC Davis
+1367,2017,1343,1413,1,0.57,Princeton,UC Davis
+1368,2017,1344,1413,0,0.2,Providence,UC Davis
+1369,2017,1345,1413,0,0.14,Purdue,UC Davis
+1370,2017,1348,1413,0,0.45,Rhode Island,UC Davis
+1371,2017,1355,1413,0,0.36,S Dakota St,UC Davis
+1372,2017,1371,1413,0,0.24,Seton Hall,UC Davis
+1373,2017,1374,1413,0,0.34,SMU,UC Davis
+1374,2017,1376,1413,1,0.71,South Carolina,UC Davis
+1375,2017,1388,1413,1,0.7,St Mary's CA,UC Davis
+1376,2017,1407,1413,1,0.7,Troy,UC Davis
+1377,2017,1411,1413,1,0.67,TX Southern,UC Davis
+1378,2017,1112,1417,1,0.57,Arizona,UCLA
+1379,2017,1116,1417,1,0.64,Arkansas,UCLA
+1380,2017,1124,1417,1,0.73,Baylor,UCLA
+1381,2017,1137,1417,0,0.29,Bucknell,UCLA
+1382,2017,1139,1417,0,0.27,Butler,UCLA
+1383,2017,1153,1417,1,0.63,Cincinnati,UCLA
+1384,2017,1166,1417,1,0.57,Creighton,UCLA
+1385,2017,1173,1417,0,0.31,Dayton,UCLA
+1386,2017,1181,1417,1,0.58,Duke,UCLA
+1387,2017,1190,1417,0,0.36,ETSU,UCLA
+1388,2017,1195,1417,0,0.48,FL Gulf Coast,UCLA
+1389,2017,1196,1417,1,0.61,Florida,UCLA
+1390,2017,1199,1417,0,0.37,Florida St,UCLA
+1391,2017,1211,1417,0,0.5,Gonzaga,UCLA
+1392,2017,1233,1417,0,0.44,Iona,UCLA
+1393,2017,1235,1417,0,0.07,Iowa St,UCLA
+1394,2017,1240,1417,0,0.25,Jacksonville St,UCLA
+1395,2017,1242,1417,0,0.19,Kansas,UCLA
+1396,2017,1243,1417,0,0.28,Kansas St,UCLA
+1397,2017,1245,1417,0,0.47,Kent,UCLA
+1398,2017,1246,1417,0,0.41,Kentucky,UCLA
+1399,2017,1257,1417,1,0.56,Louisville,UCLA
+1400,2017,1266,1417,1,0.68,Marquette,UCLA
+1401,2017,1268,1417,1,0.82,Maryland,UCLA
+1402,2017,1274,1417,1,0.56,Miami FL,UCLA
+1403,2017,1276,1417,0,0.35,Michigan,UCLA
+1404,2017,1277,1417,0,0.46,Michigan St,UCLA
+1405,2017,1278,1417,0,0.15,Minnesota,UCLA
+1406,2017,1291,1417,0,0.44,Mt St Mary's,UCLA
+1407,2017,1292,1417,1,0.74,MTSU,UCLA
+1408,2017,1297,1417,0,0.47,N Kentucky,UCLA
+1409,2017,1300,1417,1,0.63,NC Central,UCLA
+1410,2017,1305,1417,0,0.39,Nevada,UCLA
+1411,2017,1308,1417,1,0.52,New Mexico St,UCLA
+1412,2017,1309,1417,0,0.42,New Orleans,UCLA
+1413,2017,1314,1417,0,0.45,North Carolina,UCLA
+1414,2017,1315,1417,0,0.14,North Dakota,UCLA
+1415,2017,1321,1417,1,0.63,Northwestern,UCLA
+1416,2017,1323,1417,0,0.49,Notre Dame,UCLA
+1417,2017,1329,1417,0,0.4,Oklahoma St,UCLA
+1418,2017,1332,1417,1,0.7,Oregon,UCLA
+1419,2017,1343,1417,1,0.8,Princeton,UCLA
+1420,2017,1344,1417,0,0.16,Providence,UCLA
+1421,2017,1345,1417,0,0.08,Purdue,UCLA
+1422,2017,1348,1417,0,0.43,Rhode Island,UCLA
+1423,2017,1355,1417,0,0.09,S Dakota St,UCLA
+1424,2017,1371,1417,0,0.16,Seton Hall,UCLA
+1425,2017,1374,1417,0,0.42,SMU,UCLA
+1426,2017,1376,1417,1,0.74,South Carolina,UCLA
+1427,2017,1388,1417,0,0.5,St Mary's CA,UCLA
+1428,2017,1407,1417,1,0.72,Troy,UCLA
+1429,2017,1411,1417,1,0.76,TX Southern,UCLA
+1430,2017,1413,1417,1,0.76,UC Davis,UCLA
+1431,2017,1112,1423,1,0.64,Arizona,UNC Wilmington
+1432,2017,1116,1423,0,0.2,Arkansas,UNC Wilmington
+1433,2017,1124,1423,1,0.83,Baylor,UNC Wilmington
+1434,2017,1137,1423,1,0.55,Bucknell,UNC Wilmington
+1435,2017,1139,1423,1,0.62,Butler,UNC Wilmington
+1436,2017,1153,1423,1,0.59,Cincinnati,UNC Wilmington
+1437,2017,1166,1423,0,0.04,Creighton,UNC Wilmington
+1438,2017,1173,1423,1,0.87,Dayton,UNC Wilmington
+1439,2017,1181,1423,1,0.65,Duke,UNC Wilmington
+1440,2017,1190,1423,0,0.06,ETSU,UNC Wilmington
+1441,2017,1195,1423,1,0.68,FL Gulf Coast,UNC Wilmington
+1442,2017,1196,1423,1,0.55,Florida,UNC Wilmington
+1443,2017,1199,1423,0,0.38,Florida St,UNC Wilmington
+1444,2017,1211,1423,1,0.58,Gonzaga,UNC Wilmington
+1445,2017,1233,1423,0,0.37,Iona,UNC Wilmington
+1446,2017,1235,1423,1,0.6,Iowa St,UNC Wilmington
+1447,2017,1240,1423,0,0.5,Jacksonville St,UNC Wilmington
+1448,2017,1242,1423,0,0.42,Kansas,UNC Wilmington
+1449,2017,1243,1423,0,0.32,Kansas St,UNC Wilmington
+1450,2017,1245,1423,1,0.76,Kent,UNC Wilmington
+1451,2017,1246,1423,0,0.48,Kentucky,UNC Wilmington
+1452,2017,1257,1423,1,0.78,Louisville,UNC Wilmington
+1453,2017,1266,1423,1,0.87,Marquette,UNC Wilmington
+1454,2017,1268,1423,1,0.91,Maryland,UNC Wilmington
+1455,2017,1274,1423,1,0.87,Miami FL,UNC Wilmington
+1456,2017,1276,1423,0,0.44,Michigan,UNC Wilmington
+1457,2017,1277,1423,1,0.56,Michigan St,UNC Wilmington
+1458,2017,1278,1423,0,0.41,Minnesota,UNC Wilmington
+1459,2017,1291,1423,0,0.2,Mt St Mary's,UNC Wilmington
+1460,2017,1292,1423,1,0.65,MTSU,UNC Wilmington
+1461,2017,1297,1423,1,0.53,N Kentucky,UNC Wilmington
+1462,2017,1300,1423,0,0.39,NC Central,UNC Wilmington
+1463,2017,1305,1423,0,0.09,Nevada,UNC Wilmington
+1464,2017,1308,1423,0,0.18,New Mexico St,UNC Wilmington
+1465,2017,1309,1423,0,0.42,New Orleans,UNC Wilmington
+1466,2017,1314,1423,0,0.43,North Carolina,UNC Wilmington
+1467,2017,1315,1423,1,0.58,North Dakota,UNC Wilmington
+1468,2017,1321,1423,0,0.45,Northwestern,UNC Wilmington
+1469,2017,1323,1423,0,0.48,Notre Dame,UNC Wilmington
+1470,2017,1329,1423,0,0.48,Oklahoma St,UNC Wilmington
+1471,2017,1332,1423,0,0.31,Oregon,UNC Wilmington
+1472,2017,1343,1423,0,0.32,Princeton,UNC Wilmington
+1473,2017,1344,1423,0,0.44,Providence,UNC Wilmington
+1474,2017,1345,1423,1,0.66,Purdue,UNC Wilmington
+1475,2017,1348,1423,0,0.36,Rhode Island,UNC Wilmington
+1476,2017,1355,1423,1,0.82,S Dakota St,UNC Wilmington
+1477,2017,1371,1423,0,0.38,Seton Hall,UNC Wilmington
+1478,2017,1374,1423,0,0.4,SMU,UNC Wilmington
+1479,2017,1376,1423,1,0.75,South Carolina,UNC Wilmington
+1480,2017,1388,1423,0,0.38,St Mary's CA,UNC Wilmington
+1481,2017,1407,1423,1,0.58,Troy,UNC Wilmington
+1482,2017,1411,1423,1,0.73,TX Southern,UNC Wilmington
+1483,2017,1413,1423,0,0.22,UC Davis,UNC Wilmington
+1484,2017,1417,1423,0,0.05,UCLA,UNC Wilmington
+1485,2017,1112,1425,1,0.59,Arizona,USC
+1486,2017,1116,1425,1,0.81,Arkansas,USC
+1487,2017,1124,1425,0,0.47,Baylor,USC
+1488,2017,1137,1425,0,0.49,Bucknell,USC
+1489,2017,1139,1425,1,0.63,Butler,USC
+1490,2017,1153,1425,0,0.5,Cincinnati,USC
+1491,2017,1166,1425,1,0.74,Creighton,USC
+1492,2017,1173,1425,1,0.71,Dayton,USC
+1493,2017,1181,1425,1,0.54,Duke,USC
+1494,2017,1190,1425,1,0.71,ETSU,USC
+1495,2017,1195,1425,0,0.25,FL Gulf Coast,USC
+1496,2017,1196,1425,1,0.58,Florida,USC
+1497,2017,1199,1425,1,0.76,Florida St,USC
+1498,2017,1211,1425,0,0.48,Gonzaga,USC
+1499,2017,1233,1425,1,0.59,Iona,USC
+1500,2017,1235,1425,0,0.24,Iowa St,USC
+1501,2017,1240,1425,1,0.78,Jacksonville St,USC
+1502,2017,1242,1425,1,0.62,Kansas,USC
+1503,2017,1243,1425,1,0.67,Kansas St,USC
+1504,2017,1245,1425,0,0.4,Kent,USC
+1505,2017,1246,1425,1,0.59,Kentucky,USC
+1506,2017,1257,1425,1,0.85,Louisville,USC
+1507,2017,1266,1425,1,0.81,Marquette,USC
+1508,2017,1268,1425,1,0.78,Maryland,USC
+1509,2017,1274,1425,1,0.75,Miami FL,USC
+1510,2017,1276,1425,0,0.34,Michigan,USC
+1511,2017,1277,1425,0,0.31,Michigan St,USC
+1512,2017,1278,1425,1,0.66,Minnesota,USC
+1513,2017,1291,1425,1,0.54,Mt St Mary's,USC
+1514,2017,1292,1425,0,0.37,MTSU,USC
+1515,2017,1297,1425,0,0.38,N Kentucky,USC
+1516,2017,1300,1425,1,0.51,NC Central,USC
+1517,2017,1305,1425,1,0.73,Nevada,USC
+1518,2017,1308,1425,0,0.08,New Mexico St,USC
+1519,2017,1309,1425,0,0.23,New Orleans,USC
+1520,2017,1314,1425,0,0.42,North Carolina,USC
+1521,2017,1315,1425,0,0.36,North Dakota,USC
+1522,2017,1321,1425,1,0.69,Northwestern,USC
+1523,2017,1323,1425,0,0.44,Notre Dame,USC
+1524,2017,1329,1425,0,0.49,Oklahoma St,USC
+1525,2017,1332,1425,1,0.56,Oregon,USC
+1526,2017,1343,1425,1,0.56,Princeton,USC
+1527,2017,1344,1425,0,0.4,Providence,USC
+1528,2017,1345,1425,0,0.08,Purdue,USC
+1529,2017,1348,1425,0,0.5,Rhode Island,USC
+1530,2017,1355,1425,0,0.17,S Dakota St,USC
+1531,2017,1371,1425,0,0.23,Seton Hall,USC
+1532,2017,1374,1425,0,0.46,SMU,USC
+1533,2017,1376,1425,0,0.41,South Carolina,USC
+1534,2017,1388,1425,1,0.65,St Mary's CA,USC
+1535,2017,1407,1425,1,0.72,Troy,USC
+1536,2017,1411,1425,1,0.89,TX Southern,USC
+1537,2017,1413,1425,0,0.23,UC Davis,USC
+1538,2017,1417,1425,0,0.4,UCLA,USC
+1539,2017,1423,1425,0,0.34,UNC Wilmington,USC
+1540,2017,1112,1433,1,0.8,Arizona,VA Commonwealth
+1541,2017,1116,1433,1,0.86,Arkansas,VA Commonwealth
+1542,2017,1124,1433,1,0.58,Baylor,VA Commonwealth
+1543,2017,1137,1433,0,0.29,Bucknell,VA Commonwealth
+1544,2017,1139,1433,1,0.65,Butler,VA Commonwealth
+1545,2017,1153,1433,0,0.49,Cincinnati,VA Commonwealth
+1546,2017,1166,1433,1,0.67,Creighton,VA Commonwealth
+1547,2017,1173,1433,1,0.83,Dayton,VA Commonwealth
+1548,2017,1181,1433,1,0.52,Duke,VA Commonwealth
+1549,2017,1190,1433,0,0.14,ETSU,VA Commonwealth
+1550,2017,1195,1433,0,0.41,FL Gulf Coast,VA Commonwealth
+1551,2017,1196,1433,0,0.48,Florida,VA Commonwealth
+1552,2017,1199,1433,0,0.4,Florida St,VA Commonwealth
+1553,2017,1211,1433,0,0.37,Gonzaga,VA Commonwealth
+1554,2017,1233,1433,1,0.53,Iona,VA Commonwealth
+1555,2017,1235,1433,0,0.27,Iowa St,VA Commonwealth
+1556,2017,1240,1433,1,0.8,Jacksonville St,VA Commonwealth
+1557,2017,1242,1433,0,0.46,Kansas,VA Commonwealth
+1558,2017,1243,1433,0,0.33,Kansas St,VA Commonwealth
+1559,2017,1245,1433,0,0.46,Kent,VA Commonwealth
+1560,2017,1246,1433,0,0.26,Kentucky,VA Commonwealth
+1561,2017,1257,1433,1,0.59,Louisville,VA Commonwealth
+1562,2017,1266,1433,1,0.8,Marquette,VA Commonwealth
+1563,2017,1268,1433,0,0.45,Maryland,VA Commonwealth
+1564,2017,1274,1433,1,0.58,Miami FL,VA Commonwealth
+1565,2017,1276,1433,0,0.44,Michigan,VA Commonwealth
+1566,2017,1277,1433,0,0.31,Michigan St,VA Commonwealth
+1567,2017,1278,1433,1,0.53,Minnesota,VA Commonwealth
+1568,2017,1291,1433,1,0.64,Mt St Mary's,VA Commonwealth
+1569,2017,1292,1433,0,0.37,MTSU,VA Commonwealth
+1570,2017,1297,1433,0,0.47,N Kentucky,VA Commonwealth
+1571,2017,1300,1433,1,0.51,NC Central,VA Commonwealth
+1572,2017,1305,1433,0,0.32,Nevada,VA Commonwealth
+1573,2017,1308,1433,0,0.1,New Mexico St,VA Commonwealth
+1574,2017,1309,1433,1,0.53,New Orleans,VA Commonwealth
+1575,2017,1314,1433,1,0.57,North Carolina,VA Commonwealth
+1576,2017,1315,1433,0,0.1,North Dakota,VA Commonwealth
+1577,2017,1321,1433,0,0.5,Northwestern,VA Commonwealth
+1578,2017,1323,1433,0,0.37,Notre Dame,VA Commonwealth
+1579,2017,1329,1433,1,0.52,Oklahoma St,VA Commonwealth
+1580,2017,1332,1433,0,0.45,Oregon,VA Commonwealth
+1581,2017,1343,1433,0,0.3,Princeton,VA Commonwealth
+1582,2017,1344,1433,1,0.71,Providence,VA Commonwealth
+1583,2017,1345,1433,0,0.19,Purdue,VA Commonwealth
+1584,2017,1348,1433,0,0.47,Rhode Island,VA Commonwealth
+1585,2017,1355,1433,0,0.15,S Dakota St,VA Commonwealth
+1586,2017,1371,1433,1,0.65,Seton Hall,VA Commonwealth
+1587,2017,1374,1433,0,0.42,SMU,VA Commonwealth
+1588,2017,1376,1433,1,0.54,South Carolina,VA Commonwealth
+1589,2017,1388,1433,1,0.55,St Mary's CA,VA Commonwealth
+1590,2017,1407,1433,0,0.37,Troy,VA Commonwealth
+1591,2017,1411,1433,0,0.5,TX Southern,VA Commonwealth
+1592,2017,1413,1433,0,0.12,UC Davis,VA Commonwealth
+1593,2017,1417,1433,0,0.36,UCLA,VA Commonwealth
+1594,2017,1423,1433,0,0.45,UNC Wilmington,VA Commonwealth
+1595,2017,1425,1433,0,0.23,USC,VA Commonwealth
+1596,2017,1112,1435,0,0.43,Arizona,Vanderbilt
+1597,2017,1116,1435,1,0.96,Arkansas,Vanderbilt
+1598,2017,1124,1435,0,0.39,Baylor,Vanderbilt
+1599,2017,1137,1435,1,0.65,Bucknell,Vanderbilt
+1600,2017,1139,1435,0,0.18,Butler,Vanderbilt
+1601,2017,1153,1435,0,0.33,Cincinnati,Vanderbilt
+1602,2017,1166,1435,1,0.67,Creighton,Vanderbilt
+1603,2017,1173,1435,1,0.53,Dayton,Vanderbilt
+1604,2017,1181,1435,0,0.29,Duke,Vanderbilt
+1605,2017,1190,1435,0,0.1,ETSU,Vanderbilt
+1606,2017,1195,1435,1,0.58,FL Gulf Coast,Vanderbilt
+1607,2017,1196,1435,1,0.64,Florida,Vanderbilt
+1608,2017,1199,1435,0,0.45,Florida St,Vanderbilt
+1609,2017,1211,1435,0,0.38,Gonzaga,Vanderbilt
+1610,2017,1233,1435,0,0.22,Iona,Vanderbilt
+1611,2017,1235,1435,0,0.37,Iowa St,Vanderbilt
+1612,2017,1240,1435,1,0.85,Jacksonville St,Vanderbilt
+1613,2017,1242,1435,0,0.37,Kansas,Vanderbilt
+1614,2017,1243,1435,0,0.2,Kansas St,Vanderbilt
+1615,2017,1245,1435,1,0.67,Kent,Vanderbilt
+1616,2017,1246,1435,0,0.15,Kentucky,Vanderbilt
+1617,2017,1257,1435,1,0.74,Louisville,Vanderbilt
+1618,2017,1266,1435,1,0.95,Marquette,Vanderbilt
+1619,2017,1268,1435,1,0.9,Maryland,Vanderbilt
+1620,2017,1274,1435,1,0.8,Miami FL,Vanderbilt
+1621,2017,1276,1435,0,0.17,Michigan,Vanderbilt
+1622,2017,1277,1435,0,0.16,Michigan St,Vanderbilt
+1623,2017,1278,1435,1,0.63,Minnesota,Vanderbilt
+1624,2017,1291,1435,0,0.47,Mt St Mary's,Vanderbilt
+1625,2017,1292,1435,0,0.44,MTSU,Vanderbilt
+1626,2017,1297,1435,0,0.46,N Kentucky,Vanderbilt
+1627,2017,1300,1435,1,0.53,NC Central,Vanderbilt
+1628,2017,1305,1435,0,0.19,Nevada,Vanderbilt
+1629,2017,1308,1435,0,0.49,New Mexico St,Vanderbilt
+1630,2017,1309,1435,0,0.15,New Orleans,Vanderbilt
+1631,2017,1314,1435,1,0.55,North Carolina,Vanderbilt
+1632,2017,1315,1435,0,0.5,North Dakota,Vanderbilt
+1633,2017,1321,1435,0,0.49,Northwestern,Vanderbilt
+1634,2017,1323,1435,0,0.46,Notre Dame,Vanderbilt
+1635,2017,1329,1435,0,0.47,Oklahoma St,Vanderbilt
+1636,2017,1332,1435,0,0.35,Oregon,Vanderbilt
+1637,2017,1343,1435,0,0.17,Princeton,Vanderbilt
+1638,2017,1344,1435,0,0.11,Providence,Vanderbilt
+1639,2017,1345,1435,0,0.34,Purdue,Vanderbilt
+1640,2017,1348,1435,0,0.29,Rhode Island,Vanderbilt
+1641,2017,1355,1435,1,0.67,S Dakota St,Vanderbilt
+1642,2017,1371,1435,0,0.43,Seton Hall,Vanderbilt
+1643,2017,1374,1435,0,0.32,SMU,Vanderbilt
+1644,2017,1376,1435,0,0.29,South Carolina,Vanderbilt
+1645,2017,1388,1435,0,0.42,St Mary's CA,Vanderbilt
+1646,2017,1407,1435,0,0.38,Troy,Vanderbilt
+1647,2017,1411,1435,1,0.61,TX Southern,Vanderbilt
+1648,2017,1413,1435,1,0.83,UC Davis,Vanderbilt
+1649,2017,1417,1435,0,0.07,UCLA,Vanderbilt
+1650,2017,1423,1435,0,0.46,UNC Wilmington,Vanderbilt
+1651,2017,1425,1435,1,0.56,USC,Vanderbilt
+1652,2017,1433,1435,1,0.72,VA Commonwealth,Vanderbilt
+1653,2017,1112,1436,1,0.64,Arizona,Vermont
+1654,2017,1116,1436,1,0.69,Arkansas,Vermont
+1655,2017,1124,1436,1,0.68,Baylor,Vermont
+1656,2017,1137,1436,1,0.66,Bucknell,Vermont
+1657,2017,1139,1436,0,0.48,Butler,Vermont
+1658,2017,1153,1436,1,0.53,Cincinnati,Vermont
+1659,2017,1166,1436,0,0.46,Creighton,Vermont
+1660,2017,1173,1436,1,0.59,Dayton,Vermont
+1661,2017,1181,1436,1,0.52,Duke,Vermont
+1662,2017,1190,1436,1,0.57,ETSU,Vermont
+1663,2017,1195,1436,0,0.39,FL Gulf Coast,Vermont
+1664,2017,1196,1436,0,0.45,Florida,Vermont
+1665,2017,1199,1436,0,0.13,Florida St,Vermont
+1666,2017,1211,1436,1,0.53,Gonzaga,Vermont
+1667,2017,1233,1436,1,0.57,Iona,Vermont
+1668,2017,1235,1436,0,0.28,Iowa St,Vermont
+1669,2017,1240,1436,1,0.53,Jacksonville St,Vermont
+1670,2017,1242,1436,1,0.75,Kansas,Vermont
+1671,2017,1243,1436,0,0.32,Kansas St,Vermont
+1672,2017,1245,1436,1,0.74,Kent,Vermont
+1673,2017,1246,1436,1,0.53,Kentucky,Vermont
+1674,2017,1257,1436,1,0.78,Louisville,Vermont
+1675,2017,1266,1436,1,0.64,Marquette,Vermont
+1676,2017,1268,1436,1,0.95,Maryland,Vermont
+1677,2017,1274,1436,1,0.82,Miami FL,Vermont
+1678,2017,1276,1436,0,0.41,Michigan,Vermont
+1679,2017,1277,1436,1,0.58,Michigan St,Vermont
+1680,2017,1278,1436,0,0.28,Minnesota,Vermont
+1681,2017,1291,1436,0,0.34,Mt St Mary's,Vermont
+1682,2017,1292,1436,0,0.35,MTSU,Vermont
+1683,2017,1297,1436,0,0.46,N Kentucky,Vermont
+1684,2017,1300,1436,0,0.48,NC Central,Vermont
+1685,2017,1305,1436,1,0.7,Nevada,Vermont
+1686,2017,1308,1436,0,0.48,New Mexico St,Vermont
+1687,2017,1309,1436,0,0.44,New Orleans,Vermont
+1688,2017,1314,1436,0,0.43,North Carolina,Vermont
+1689,2017,1315,1436,0,0.3,North Dakota,Vermont
+1690,2017,1321,1436,0,0.37,Northwestern,Vermont
+1691,2017,1323,1436,0,0.44,Notre Dame,Vermont
+1692,2017,1329,1436,0,0.5,Oklahoma St,Vermont
+1693,2017,1332,1436,0,0.41,Oregon,Vermont
+1694,2017,1343,1436,0,0.19,Princeton,Vermont
+1695,2017,1344,1436,0,0.33,Providence,Vermont
+1696,2017,1345,1436,0,0.29,Purdue,Vermont
+1697,2017,1348,1436,0,0.26,Rhode Island,Vermont
+1698,2017,1355,1436,0,0.48,S Dakota St,Vermont
+1699,2017,1371,1436,0,0.32,Seton Hall,Vermont
+1700,2017,1374,1436,0,0.21,SMU,Vermont
+1701,2017,1376,1436,1,0.64,South Carolina,Vermont
+1702,2017,1388,1436,1,0.73,St Mary's CA,Vermont
+1703,2017,1407,1436,0,0.39,Troy,Vermont
+1704,2017,1411,1436,0,0.22,TX Southern,Vermont
+1705,2017,1413,1436,0,0.24,UC Davis,Vermont
+1706,2017,1417,1436,0,0.36,UCLA,Vermont
+1707,2017,1423,1436,0,0.23,UNC Wilmington,Vermont
+1708,2017,1425,1436,0,0.37,USC,Vermont
+1709,2017,1433,1436,1,0.65,VA Commonwealth,Vermont
+1710,2017,1435,1436,1,0.69,Vanderbilt,Vermont
+1711,2017,1112,1437,0,0.18,Arizona,Villanova
+1712,2017,1116,1437,1,0.91,Arkansas,Villanova
+1713,2017,1124,1437,0,0.43,Baylor,Villanova
+1714,2017,1137,1437,1,0.72,Bucknell,Villanova
+1715,2017,1139,1437,0,0.27,Butler,Villanova
+1716,2017,1153,1437,1,0.85,Cincinnati,Villanova
+1717,2017,1166,1437,1,0.6,Creighton,Villanova
+1718,2017,1173,1437,0,0.33,Dayton,Villanova
+1719,2017,1181,1437,0,0.44,Duke,Villanova
+1720,2017,1190,1437,0,0.38,ETSU,Villanova
+1721,2017,1195,1437,0,0.29,FL Gulf Coast,Villanova
+1722,2017,1196,1437,0,0.48,Florida,Villanova
+1723,2017,1199,1437,0,0.4,Florida St,Villanova
+1724,2017,1211,1437,1,0.53,Gonzaga,Villanova
+1725,2017,1233,1437,1,0.52,Iona,Villanova
+1726,2017,1235,1437,1,0.57,Iowa St,Villanova
+1727,2017,1240,1437,1,0.77,Jacksonville St,Villanova
+1728,2017,1242,1437,0,0.15,Kansas,Villanova
+1729,2017,1243,1437,0,0.31,Kansas St,Villanova
+1730,2017,1245,1437,1,0.79,Kent,Villanova
+1731,2017,1246,1437,0,0.5,Kentucky,Villanova
+1732,2017,1257,1437,0,0.45,Louisville,Villanova
+1733,2017,1266,1437,1,0.88,Marquette,Villanova
+1734,2017,1268,1437,1,0.66,Maryland,Villanova
+1735,2017,1274,1437,1,0.75,Miami FL,Villanova
+1736,2017,1276,1437,0,0.32,Michigan,Villanova
+1737,2017,1277,1437,0,0.39,Michigan St,Villanova
+1738,2017,1278,1437,0,0.35,Minnesota,Villanova
+1739,2017,1291,1437,0,0.43,Mt St Mary's,Villanova
+1740,2017,1292,1437,0,0.38,MTSU,Villanova
+1741,2017,1297,1437,0,0.43,N Kentucky,Villanova
+1742,2017,1300,1437,0,0.37,NC Central,Villanova
+1743,2017,1305,1437,0,0.5,Nevada,Villanova
+1744,2017,1308,1437,0,0.35,New Mexico St,Villanova
+1745,2017,1309,1437,0,0.25,New Orleans,Villanova
+1746,2017,1314,1437,0,0.23,North Carolina,Villanova
+1747,2017,1315,1437,0,0.12,North Dakota,Villanova
+1748,2017,1321,1437,0,0.5,Northwestern,Villanova
+1749,2017,1323,1437,0,0.36,Notre Dame,Villanova
+1750,2017,1329,1437,1,0.84,Oklahoma St,Villanova
+1751,2017,1332,1437,0,0.48,Oregon,Villanova
+1752,2017,1343,1437,1,0.57,Princeton,Villanova
+1753,2017,1344,1437,0,0.08,Providence,Villanova
+1754,2017,1345,1437,1,0.67,Purdue,Villanova
+1755,2017,1348,1437,1,0.75,Rhode Island,Villanova
+1756,2017,1355,1437,0,0.34,S Dakota St,Villanova
+1757,2017,1371,1437,0,0.44,Seton Hall,Villanova
+1758,2017,1374,1437,0,0.38,SMU,Villanova
+1759,2017,1376,1437,1,0.52,South Carolina,Villanova
+1760,2017,1388,1437,0,0.38,St Mary's CA,Villanova
+1761,2017,1407,1437,1,0.61,Troy,Villanova
+1762,2017,1411,1437,0,0.38,TX Southern,Villanova
+1763,2017,1413,1437,0,0.26,UC Davis,Villanova
+1764,2017,1417,1437,0,0.17,UCLA,Villanova
+1765,2017,1423,1437,1,0.68,UNC Wilmington,Villanova
+1766,2017,1425,1437,0,0.39,USC,Villanova
+1767,2017,1433,1437,0,0.39,VA Commonwealth,Villanova
+1768,2017,1435,1437,1,0.77,Vanderbilt,Villanova
+1769,2017,1436,1437,0,0.44,Vermont,Villanova
+1770,2017,1112,1438,0,0.4,Arizona,Virginia
+1771,2017,1116,1438,1,0.89,Arkansas,Virginia
+1772,2017,1124,1438,1,0.79,Baylor,Virginia
+1773,2017,1137,1438,0,0.37,Bucknell,Virginia
+1774,2017,1139,1438,1,0.61,Butler,Virginia
+1775,2017,1153,1438,1,0.87,Cincinnati,Virginia
+1776,2017,1166,1438,1,0.77,Creighton,Virginia
+1777,2017,1173,1438,0,0.37,Dayton,Virginia
+1778,2017,1181,1438,0,0.22,Duke,Virginia
+1779,2017,1190,1438,0,0.33,ETSU,Virginia
+1780,2017,1195,1438,1,0.72,FL Gulf Coast,Virginia
+1781,2017,1196,1438,1,0.68,Florida,Virginia
+1782,2017,1199,1438,1,0.53,Florida St,Virginia
+1783,2017,1211,1438,0,0.35,Gonzaga,Virginia
+1784,2017,1233,1438,0,0.16,Iona,Virginia
+1785,2017,1235,1438,0,0.45,Iowa St,Virginia
+1786,2017,1240,1438,1,0.84,Jacksonville St,Virginia
+1787,2017,1242,1438,0,0.12,Kansas,Virginia
+1788,2017,1243,1438,1,0.75,Kansas St,Virginia
+1789,2017,1245,1438,0,0.32,Kent,Virginia
+1790,2017,1246,1438,1,0.55,Kentucky,Virginia
+1791,2017,1257,1438,1,0.53,Louisville,Virginia
+1792,2017,1266,1438,1,0.94,Marquette,Virginia
+1793,2017,1268,1438,1,0.9,Maryland,Virginia
+1794,2017,1274,1438,1,0.63,Miami FL,Virginia
+1795,2017,1276,1438,0,0.16,Michigan,Virginia
+1796,2017,1277,1438,0,0.21,Michigan St,Virginia
+1797,2017,1278,1438,1,0.61,Minnesota,Virginia
+1798,2017,1291,1438,1,0.59,Mt St Mary's,Virginia
+1799,2017,1292,1438,0,0.44,MTSU,Virginia
+1800,2017,1297,1438,1,0.55,N Kentucky,Virginia
+1801,2017,1300,1438,0,0.47,NC Central,Virginia
+1802,2017,1305,1438,0,0.38,Nevada,Virginia
+1803,2017,1308,1438,1,0.53,New Mexico St,Virginia
+1804,2017,1309,1438,0,0.16,New Orleans,Virginia
+1805,2017,1314,1438,1,0.51,North Carolina,Virginia
+1806,2017,1315,1438,1,0.59,North Dakota,Virginia
+1807,2017,1321,1438,1,0.56,Northwestern,Virginia
+1808,2017,1323,1438,0,0.4,Notre Dame,Virginia
+1809,2017,1329,1438,1,0.53,Oklahoma St,Virginia
+1810,2017,1332,1438,0,0.06,Oregon,Virginia
+1811,2017,1343,1438,1,0.54,Princeton,Virginia
+1812,2017,1344,1438,1,0.81,Providence,Virginia
+1813,2017,1345,1438,0,0.47,Purdue,Virginia
+1814,2017,1348,1438,0,0.3,Rhode Island,Virginia
+1815,2017,1355,1438,0,0.28,S Dakota St,Virginia
+1816,2017,1371,1438,0,0.15,Seton Hall,Virginia
+1817,2017,1374,1438,1,0.69,SMU,Virginia
+1818,2017,1376,1438,1,0.57,South Carolina,Virginia
+1819,2017,1388,1438,1,0.58,St Mary's CA,Virginia
+1820,2017,1407,1438,1,0.71,Troy,Virginia
+1821,2017,1411,1438,1,0.63,TX Southern,Virginia
+1822,2017,1413,1438,1,0.89,UC Davis,Virginia
+1823,2017,1417,1438,0,0.05,UCLA,Virginia
+1824,2017,1423,1438,1,0.74,UNC Wilmington,Virginia
+1825,2017,1425,1438,0,0.45,USC,Virginia
+1826,2017,1433,1438,0,0.42,VA Commonwealth,Virginia
+1827,2017,1435,1438,0,0.38,Vanderbilt,Virginia
+1828,2017,1436,1438,1,0.61,Vermont,Virginia
+1829,2017,1437,1438,0,0.15,Villanova,Virginia
+1830,2017,1112,1439,1,0.69,Arizona,Virginia Tech
+1831,2017,1116,1439,1,0.75,Arkansas,Virginia Tech
+1832,2017,1124,1439,0,0.37,Baylor,Virginia Tech
+1833,2017,1137,1439,1,0.65,Bucknell,Virginia Tech
+1834,2017,1139,1439,0,0.43,Butler,Virginia Tech
+1835,2017,1153,1439,1,0.95,Cincinnati,Virginia Tech
+1836,2017,1166,1439,0,0.42,Creighton,Virginia Tech
+1837,2017,1173,1439,1,0.54,Dayton,Virginia Tech
+1838,2017,1181,1439,1,0.58,Duke,Virginia Tech
+1839,2017,1190,1439,0,0.13,ETSU,Virginia Tech
+1840,2017,1195,1439,0,0.32,FL Gulf Coast,Virginia Tech
+1841,2017,1196,1439,0,0.27,Florida,Virginia Tech
+1842,2017,1199,1439,0,0.39,Florida St,Virginia Tech
+1843,2017,1211,1439,1,0.67,Gonzaga,Virginia Tech
+1844,2017,1233,1439,0,0.46,Iona,Virginia Tech
+1845,2017,1235,1439,0,0.39,Iowa St,Virginia Tech
+1846,2017,1240,1439,1,0.63,Jacksonville St,Virginia Tech
+1847,2017,1242,1439,1,0.55,Kansas,Virginia Tech
+1848,2017,1243,1439,0,0.13,Kansas St,Virginia Tech
+1849,2017,1245,1439,0,0.4,Kent,Virginia Tech
+1850,2017,1246,1439,0,0.16,Kentucky,Virginia Tech
+1851,2017,1257,1439,1,0.83,Louisville,Virginia Tech
+1852,2017,1266,1439,1,0.79,Marquette,Virginia Tech
+1853,2017,1268,1439,1,0.6,Maryland,Virginia Tech
+1854,2017,1274,1439,1,0.75,Miami FL,Virginia Tech
+1855,2017,1276,1439,0,0.34,Michigan,Virginia Tech
+1856,2017,1277,1439,1,0.59,Michigan St,Virginia Tech
+1857,2017,1278,1439,0,0.39,Minnesota,Virginia Tech
+1858,2017,1291,1439,0,0.18,Mt St Mary's,Virginia Tech
+1859,2017,1292,1439,0,0.13,MTSU,Virginia Tech
+1860,2017,1297,1439,0,0.48,N Kentucky,Virginia Tech
+1861,2017,1300,1439,0,0.38,NC Central,Virginia Tech
+1862,2017,1305,1439,0,0.47,Nevada,Virginia Tech
+1863,2017,1308,1439,0,0.4,New Mexico St,Virginia Tech
+1864,2017,1309,1439,0,0.39,New Orleans,Virginia Tech
+1865,2017,1314,1439,0,0.5,North Carolina,Virginia Tech
+1866,2017,1315,1439,0,0.35,North Dakota,Virginia Tech
+1867,2017,1321,1439,0,0.42,Northwestern,Virginia Tech
+1868,2017,1323,1439,1,0.59,Notre Dame,Virginia Tech
+1869,2017,1329,1439,1,0.68,Oklahoma St,Virginia Tech
+1870,2017,1332,1439,0,0.49,Oregon,Virginia Tech
+1871,2017,1343,1439,1,0.52,Princeton,Virginia Tech
+1872,2017,1344,1439,0,0.16,Providence,Virginia Tech
+1873,2017,1345,1439,0,0.41,Purdue,Virginia Tech
+1874,2017,1348,1439,0,0.26,Rhode Island,Virginia Tech
+1875,2017,1355,1439,0,0.34,S Dakota St,Virginia Tech
+1876,2017,1371,1439,0,0.16,Seton Hall,Virginia Tech
+1877,2017,1374,1439,1,0.75,SMU,Virginia Tech
+1878,2017,1376,1439,1,0.68,South Carolina,Virginia Tech
+1879,2017,1388,1439,1,0.64,St Mary's CA,Virginia Tech
+1880,2017,1407,1439,1,0.56,Troy,Virginia Tech
+1881,2017,1411,1439,0,0.33,TX Southern,Virginia Tech
+1882,2017,1413,1439,1,0.56,UC Davis,Virginia Tech
+1883,2017,1417,1439,1,0.72,UCLA,Virginia Tech
+1884,2017,1423,1439,0,0.24,UNC Wilmington,Virginia Tech
+1885,2017,1425,1439,0,0.43,USC,Virginia Tech
+1886,2017,1433,1439,1,0.71,VA Commonwealth,Virginia Tech
+1887,2017,1435,1439,0,0.31,Vanderbilt,Virginia Tech
+1888,2017,1436,1439,1,0.57,Vermont,Virginia Tech
+1889,2017,1437,1439,0,0.48,Villanova,Virginia Tech
+1890,2017,1438,1439,1,0.51,Virginia,Virginia Tech
+1891,2017,1112,1448,0,0.36,Arizona,Wake Forest
+1892,2017,1116,1448,1,0.89,Arkansas,Wake Forest
+1893,2017,1124,1448,0,0.48,Baylor,Wake Forest
+1894,2017,1137,1448,0,0.36,Bucknell,Wake Forest
+1895,2017,1139,1448,0,0.38,Butler,Wake Forest
+1896,2017,1153,1448,1,0.7,Cincinnati,Wake Forest
+1897,2017,1166,1448,1,0.57,Creighton,Wake Forest
+1898,2017,1173,1448,0,0.39,Dayton,Wake Forest
+1899,2017,1181,1448,1,0.76,Duke,Wake Forest
+1900,2017,1190,1448,0,0.22,ETSU,Wake Forest
+1901,2017,1195,1448,0,0.37,FL Gulf Coast,Wake Forest
+1902,2017,1196,1448,1,0.56,Florida,Wake Forest
+1903,2017,1199,1448,0,0.43,Florida St,Wake Forest
+1904,2017,1211,1448,0,0.46,Gonzaga,Wake Forest
+1905,2017,1233,1448,0,0.4,Iona,Wake Forest
+1906,2017,1235,1448,1,0.85,Iowa St,Wake Forest
+1907,2017,1240,1448,1,0.69,Jacksonville St,Wake Forest
+1908,2017,1242,1448,1,0.53,Kansas,Wake Forest
+1909,2017,1243,1448,0,0.37,Kansas St,Wake Forest
+1910,2017,1245,1448,0,0.22,Kent,Wake Forest
+1911,2017,1246,1448,0,0.45,Kentucky,Wake Forest
+1912,2017,1257,1448,1,0.79,Louisville,Wake Forest
+1913,2017,1266,1448,1,0.91,Marquette,Wake Forest
+1914,2017,1268,1448,1,0.77,Maryland,Wake Forest
+1915,2017,1274,1448,1,0.87,Miami FL,Wake Forest
+1916,2017,1276,1448,0,0.25,Michigan,Wake Forest
+1917,2017,1277,1448,0,0.48,Michigan St,Wake Forest
+1918,2017,1278,1448,0,0.22,Minnesota,Wake Forest
+1919,2017,1291,1448,1,0.61,Mt St Mary's,Wake Forest
+1920,2017,1292,1448,1,0.51,MTSU,Wake Forest
+1921,2017,1297,1448,0,0.45,N Kentucky,Wake Forest
+1922,2017,1300,1448,1,0.57,NC Central,Wake Forest
+1923,2017,1305,1448,0,0.49,Nevada,Wake Forest
+1924,2017,1308,1448,1,0.61,New Mexico St,Wake Forest
+1925,2017,1309,1448,0,0.2,New Orleans,Wake Forest
+1926,2017,1314,1448,0,0.46,North Carolina,Wake Forest
+1927,2017,1315,1448,1,0.53,North Dakota,Wake Forest
+1928,2017,1321,1448,0,0.44,Northwestern,Wake Forest
+1929,2017,1323,1448,0,0.25,Notre Dame,Wake Forest
+1930,2017,1329,1448,0,0.4,Oklahoma St,Wake Forest
+1931,2017,1332,1448,0,0.41,Oregon,Wake Forest
+1932,2017,1343,1448,1,0.56,Princeton,Wake Forest
+1933,2017,1344,1448,0,0.04,Providence,Wake Forest
+1934,2017,1345,1448,1,0.52,Purdue,Wake Forest
+1935,2017,1348,1448,0,0.15,Rhode Island,Wake Forest
+1936,2017,1355,1448,0,0.34,S Dakota St,Wake Forest
+1937,2017,1371,1448,0,0.28,Seton Hall,Wake Forest
+1938,2017,1374,1448,1,0.62,SMU,Wake Forest
+1939,2017,1376,1448,1,0.73,South Carolina,Wake Forest
+1940,2017,1388,1448,1,0.71,St Mary's CA,Wake Forest
+1941,2017,1407,1448,1,0.73,Troy,Wake Forest
+1942,2017,1411,1448,0,0.31,TX Southern,Wake Forest
+1943,2017,1413,1448,0,0.36,UC Davis,Wake Forest
+1944,2017,1417,1448,0,0.25,UCLA,Wake Forest
+1945,2017,1423,1448,0,0.46,UNC Wilmington,Wake Forest
+1946,2017,1425,1448,0,0.29,USC,Wake Forest
+1947,2017,1433,1448,0,0.37,VA Commonwealth,Wake Forest
+1948,2017,1435,1448,0,0.12,Vanderbilt,Wake Forest
+1949,2017,1436,1448,0,0.3,Vermont,Wake Forest
+1950,2017,1437,1448,0,0.26,Villanova,Wake Forest
+1951,2017,1438,1448,1,0.7,Virginia,Wake Forest
+1952,2017,1439,1448,1,0.73,Virginia Tech,Wake Forest
+1953,2017,1112,1452,0,0.34,Arizona,West Virginia
+1954,2017,1116,1452,1,0.82,Arkansas,West Virginia
+1955,2017,1124,1452,0,0.14,Baylor,West Virginia
+1956,2017,1137,1452,0,0.28,Bucknell,West Virginia
+1957,2017,1139,1452,1,0.64,Butler,West Virginia
+1958,2017,1153,1452,1,0.9,Cincinnati,West Virginia
+1959,2017,1166,1452,1,0.69,Creighton,West Virginia
+1960,2017,1173,1452,0,0.33,Dayton,West Virginia
+1961,2017,1181,1452,1,0.81,Duke,West Virginia
+1962,2017,1190,1452,0,0.3,ETSU,West Virginia
+1963,2017,1195,1452,1,0.52,FL Gulf Coast,West Virginia
+1964,2017,1196,1452,0,0.33,Florida,West Virginia
+1965,2017,1199,1452,1,0.71,Florida St,West Virginia
+1966,2017,1211,1452,0,0.46,Gonzaga,West Virginia
+1967,2017,1233,1452,0,0.15,Iona,West Virginia
+1968,2017,1235,1452,1,0.62,Iowa St,West Virginia
+1969,2017,1240,1452,1,0.73,Jacksonville St,West Virginia
+1970,2017,1242,1452,1,0.62,Kansas,West Virginia
+1971,2017,1243,1452,0,0.09,Kansas St,West Virginia
+1972,2017,1245,1452,1,0.66,Kent,West Virginia
+1973,2017,1246,1452,0,0.15,Kentucky,West Virginia
+1974,2017,1257,1452,1,0.86,Louisville,West Virginia
+1975,2017,1266,1452,1,0.86,Marquette,West Virginia
+1976,2017,1268,1452,1,0.75,Maryland,West Virginia
+1977,2017,1274,1452,1,0.83,Miami FL,West Virginia
+1978,2017,1276,1452,0,0.27,Michigan,West Virginia
+1979,2017,1277,1452,0,0.42,Michigan St,West Virginia
+1980,2017,1278,1452,1,0.65,Minnesota,West Virginia
+1981,2017,1291,1452,1,0.68,Mt St Mary's,West Virginia
+1982,2017,1292,1452,0,0.49,MTSU,West Virginia
+1983,2017,1297,1452,0,0.5,N Kentucky,West Virginia
+1984,2017,1300,1452,1,0.54,NC Central,West Virginia
+1985,2017,1305,1452,0,0.34,Nevada,West Virginia
+1986,2017,1308,1452,0,0.41,New Mexico St,West Virginia
+1987,2017,1309,1452,0,0.23,New Orleans,West Virginia
+1988,2017,1314,1452,0,0.45,North Carolina,West Virginia
+1989,2017,1315,1452,0,0.38,North Dakota,West Virginia
+1990,2017,1321,1452,1,0.58,Northwestern,West Virginia
+1991,2017,1323,1452,0,0.4,Notre Dame,West Virginia
+1992,2017,1329,1452,0,0.4,Oklahoma St,West Virginia
+1993,2017,1332,1452,0,0.03,Oregon,West Virginia
+1994,2017,1343,1452,0,0.37,Princeton,West Virginia
+1995,2017,1344,1452,1,0.73,Providence,West Virginia
+1996,2017,1345,1452,0,0.31,Purdue,West Virginia
+1997,2017,1348,1452,0,0.37,Rhode Island,West Virginia
+1998,2017,1355,1452,0,0.16,S Dakota St,West Virginia
+1999,2017,1371,1452,1,0.69,Seton Hall,West Virginia
+2000,2017,1374,1452,0,0.5,SMU,West Virginia
+2001,2017,1376,1452,1,0.65,South Carolina,West Virginia
+2002,2017,1388,1452,1,0.62,St Mary's CA,West Virginia
+2003,2017,1407,1452,1,0.53,Troy,West Virginia
+2004,2017,1411,1452,1,0.8,TX Southern,West Virginia
+2005,2017,1413,1452,0,0.36,UC Davis,West Virginia
+2006,2017,1417,1452,0,0.37,UCLA,West Virginia
+2007,2017,1423,1452,0,0.16,UNC Wilmington,West Virginia
+2008,2017,1425,1452,0,0.33,USC,West Virginia
+2009,2017,1433,1452,0,0.25,VA Commonwealth,West Virginia
+2010,2017,1435,1452,1,0.78,Vanderbilt,West Virginia
+2011,2017,1436,1452,0,0.35,Vermont,West Virginia
+2012,2017,1437,1452,0,0.16,Villanova,West Virginia
+2013,2017,1438,1452,0,0.49,Virginia,West Virginia
+2014,2017,1439,1452,1,0.79,Virginia Tech,West Virginia
+2015,2017,1448,1452,0,0.08,Wake Forest,West Virginia
+2016,2017,1112,1455,1,0.86,Arizona,Wichita St
+2017,2017,1116,1455,1,0.88,Arkansas,Wichita St
+2018,2017,1124,1455,0,0.39,Baylor,Wichita St
+2019,2017,1137,1455,0,0.45,Bucknell,Wichita St
+2020,2017,1139,1455,1,0.52,Butler,Wichita St
+2021,2017,1153,1455,1,0.92,Cincinnati,Wichita St
+2022,2017,1166,1455,0,0.43,Creighton,Wichita St
+2023,2017,1173,1455,1,0.76,Dayton,Wichita St
+2024,2017,1181,1455,1,0.94,Duke,Wichita St
+2025,2017,1190,1455,0,0.09,ETSU,Wichita St
+2026,2017,1195,1455,0,0.5,FL Gulf Coast,Wichita St
+2027,2017,1196,1455,0,0.26,Florida,Wichita St
+2028,2017,1199,1455,0,0.21,Florida St,Wichita St
+2029,2017,1211,1455,1,0.55,Gonzaga,Wichita St
+2030,2017,1233,1455,1,0.67,Iona,Wichita St
+2031,2017,1235,1455,1,0.71,Iowa St,Wichita St
+2032,2017,1240,1455,0,0.39,Jacksonville St,Wichita St
+2033,2017,1242,1455,0,0.14,Kansas,Wichita St
+2034,2017,1243,1455,1,0.78,Kansas St,Wichita St
+2035,2017,1245,1455,0,0.43,Kent,Wichita St
+2036,2017,1246,1455,1,0.56,Kentucky,Wichita St
+2037,2017,1257,1455,0,0.49,Louisville,Wichita St
+2038,2017,1266,1455,1,0.8,Marquette,Wichita St
+2039,2017,1268,1455,1,0.89,Maryland,Wichita St
+2040,2017,1274,1455,1,0.51,Miami FL,Wichita St
+2041,2017,1276,1455,0,0.49,Michigan,Wichita St
+2042,2017,1277,1455,0,0.46,Michigan St,Wichita St
+2043,2017,1278,1455,0,0.44,Minnesota,Wichita St
+2044,2017,1291,1455,0,0.34,Mt St Mary's,Wichita St
+2045,2017,1292,1455,0,0.13,MTSU,Wichita St
+2046,2017,1297,1455,1,0.51,N Kentucky,Wichita St
+2047,2017,1300,1455,0,0.49,NC Central,Wichita St
+2048,2017,1305,1455,0,0.32,Nevada,Wichita St
+2049,2017,1308,1455,0,0.41,New Mexico St,Wichita St
+2050,2017,1309,1455,0,0.42,New Orleans,Wichita St
+2051,2017,1314,1455,1,0.65,North Carolina,Wichita St
+2052,2017,1315,1455,1,0.59,North Dakota,Wichita St
+2053,2017,1321,1455,0,0.43,Northwestern,Wichita St
+2054,2017,1323,1455,0,0.45,Notre Dame,Wichita St
+2055,2017,1329,1455,1,0.66,Oklahoma St,Wichita St
+2056,2017,1332,1455,0,0.39,Oregon,Wichita St
+2057,2017,1343,1455,1,0.54,Princeton,Wichita St
+2058,2017,1344,1455,1,0.65,Providence,Wichita St
+2059,2017,1345,1455,0,0.19,Purdue,Wichita St
+2060,2017,1348,1455,1,0.53,Rhode Island,Wichita St
+2061,2017,1355,1455,0,0.36,S Dakota St,Wichita St
+2062,2017,1371,1455,0,0.19,Seton Hall,Wichita St
+2063,2017,1374,1455,1,0.69,SMU,Wichita St
+2064,2017,1376,1455,1,0.75,South Carolina,Wichita St
+2065,2017,1388,1455,1,0.59,St Mary's CA,Wichita St
+2066,2017,1407,1455,1,0.69,Troy,Wichita St
+2067,2017,1411,1455,0,0.25,TX Southern,Wichita St
+2068,2017,1413,1455,0,0.45,UC Davis,Wichita St
+2069,2017,1417,1455,0,0.22,UCLA,Wichita St
+2070,2017,1423,1455,0,0.09,UNC Wilmington,Wichita St
+2071,2017,1425,1455,1,0.55,USC,Wichita St
+2072,2017,1433,1455,1,0.81,VA Commonwealth,Wichita St
+2073,2017,1435,1455,0,0.41,Vanderbilt,Wichita St
+2074,2017,1436,1455,1,0.56,Vermont,Wichita St
+2075,2017,1437,1455,1,0.78,Villanova,Wichita St
+2076,2017,1438,1455,0,0.34,Virginia,Wichita St
+2077,2017,1439,1455,0,0.33,Virginia Tech,Wichita St
+2078,2017,1448,1455,1,0.61,Wake Forest,Wichita St
+2079,2017,1452,1455,0,0.31,West Virginia,Wichita St
+2080,2017,1112,1457,0,0.21,Arizona,Winthrop
+2081,2017,1116,1457,1,0.75,Arkansas,Winthrop
+2082,2017,1124,1457,1,0.65,Baylor,Winthrop
+2083,2017,1137,1457,0,0.38,Bucknell,Winthrop
+2084,2017,1139,1457,1,0.57,Butler,Winthrop
+2085,2017,1153,1457,1,0.8,Cincinnati,Winthrop
+2086,2017,1166,1457,1,0.52,Creighton,Winthrop
+2087,2017,1173,1457,0,0.41,Dayton,Winthrop
+2088,2017,1181,1457,1,0.81,Duke,Winthrop
+2089,2017,1190,1457,1,0.52,ETSU,Winthrop
+2090,2017,1195,1457,1,0.65,FL Gulf Coast,Winthrop
+2091,2017,1196,1457,0,0.42,Florida,Winthrop
+2092,2017,1199,1457,0,0.22,Florida St,Winthrop
+2093,2017,1211,1457,0,0.47,Gonzaga,Winthrop
+2094,2017,1233,1457,0,0.24,Iona,Winthrop
+2095,2017,1235,1457,0,0.33,Iowa St,Winthrop
+2096,2017,1240,1457,0,0.42,Jacksonville St,Winthrop
+2097,2017,1242,1457,0,0.31,Kansas,Winthrop
+2098,2017,1243,1457,0,0.26,Kansas St,Winthrop
+2099,2017,1245,1457,0,0.49,Kent,Winthrop
+2100,2017,1246,1457,0,0.27,Kentucky,Winthrop
+2101,2017,1257,1457,1,0.69,Louisville,Winthrop
+2102,2017,1266,1457,1,0.75,Marquette,Winthrop
+2103,2017,1268,1457,1,0.67,Maryland,Winthrop
+2104,2017,1274,1457,1,0.92,Miami FL,Winthrop
+2105,2017,1276,1457,0,0.24,Michigan,Winthrop
+2106,2017,1277,1457,0,0.4,Michigan St,Winthrop
+2107,2017,1278,1457,0,0.37,Minnesota,Winthrop
+2108,2017,1291,1457,1,0.52,Mt St Mary's,Winthrop
+2109,2017,1292,1457,0,0.4,MTSU,Winthrop
+2110,2017,1297,1457,1,0.62,N Kentucky,Winthrop
+2111,2017,1300,1457,1,0.51,NC Central,Winthrop
+2112,2017,1305,1457,0,0.5,Nevada,Winthrop
+2113,2017,1308,1457,0,0.14,New Mexico St,Winthrop
+2114,2017,1309,1457,0,0.21,New Orleans,Winthrop
+2115,2017,1314,1457,0,0.38,North Carolina,Winthrop
+2116,2017,1315,1457,0,0.48,North Dakota,Winthrop
+2117,2017,1321,1457,0,0.38,Northwestern,Winthrop
+2118,2017,1323,1457,0,0.41,Notre Dame,Winthrop
+2119,2017,1329,1457,0,0.35,Oklahoma St,Winthrop
+2120,2017,1332,1457,0,0.4,Oregon,Winthrop
+2121,2017,1343,1457,1,0.56,Princeton,Winthrop
+2122,2017,1344,1457,0,0.38,Providence,Winthrop
+2123,2017,1345,1457,0,0.39,Purdue,Winthrop
+2124,2017,1348,1457,0,0.33,Rhode Island,Winthrop
+2125,2017,1355,1457,0,0.0,S Dakota St,Winthrop
+2126,2017,1371,1457,1,0.54,Seton Hall,Winthrop
+2127,2017,1374,1457,1,0.68,SMU,Winthrop
+2128,2017,1376,1457,1,0.72,South Carolina,Winthrop
+2129,2017,1388,1457,1,0.63,St Mary's CA,Winthrop
+2130,2017,1407,1457,1,0.68,Troy,Winthrop
+2131,2017,1411,1457,0,0.4,TX Southern,Winthrop
+2132,2017,1413,1457,0,0.33,UC Davis,Winthrop
+2133,2017,1417,1457,0,0.36,UCLA,Winthrop
+2134,2017,1423,1457,0,0.12,UNC Wilmington,Winthrop
+2135,2017,1425,1457,1,0.59,USC,Winthrop
+2136,2017,1433,1457,0,0.44,VA Commonwealth,Winthrop
+2137,2017,1435,1457,0,0.27,Vanderbilt,Winthrop
+2138,2017,1436,1457,0,0.13,Vermont,Winthrop
+2139,2017,1437,1457,0,0.18,Villanova,Winthrop
+2140,2017,1438,1457,1,0.57,Virginia,Winthrop
+2141,2017,1439,1457,0,0.5,Virginia Tech,Winthrop
+2142,2017,1448,1457,1,0.56,Wake Forest,Winthrop
+2143,2017,1452,1457,1,0.51,West Virginia,Winthrop
+2144,2017,1455,1457,0,0.36,Wichita St,Winthrop
+2145,2017,1112,1458,0,0.29,Arizona,Wisconsin
+2146,2017,1116,1458,1,0.89,Arkansas,Wisconsin
+2147,2017,1124,1458,0,0.43,Baylor,Wisconsin
+2148,2017,1137,1458,0,0.23,Bucknell,Wisconsin
+2149,2017,1139,1458,1,0.52,Butler,Wisconsin
+2150,2017,1153,1458,1,0.92,Cincinnati,Wisconsin
+2151,2017,1166,1458,1,0.73,Creighton,Wisconsin
+2152,2017,1173,1458,0,0.43,Dayton,Wisconsin
+2153,2017,1181,1458,1,0.91,Duke,Wisconsin
+2154,2017,1190,1458,0,0.06,ETSU,Wisconsin
+2155,2017,1195,1458,0,0.3,FL Gulf Coast,Wisconsin
+2156,2017,1196,1458,0,0.29,Florida,Wisconsin
+2157,2017,1199,1458,0,0.45,Florida St,Wisconsin
+2158,2017,1211,1458,0,0.39,Gonzaga,Wisconsin
+2159,2017,1233,1458,1,0.66,Iona,Wisconsin
+2160,2017,1235,1458,0,0.35,Iowa St,Wisconsin
+2161,2017,1240,1458,1,0.84,Jacksonville St,Wisconsin
+2162,2017,1242,1458,0,0.12,Kansas,Wisconsin
+2163,2017,1243,1458,0,0.09,Kansas St,Wisconsin
+2164,2017,1245,1458,1,0.81,Kent,Wisconsin
+2165,2017,1246,1458,0,0.25,Kentucky,Wisconsin
+2166,2017,1257,1458,0,0.35,Louisville,Wisconsin
+2167,2017,1266,1458,1,0.84,Marquette,Wisconsin
+2168,2017,1268,1458,1,0.86,Maryland,Wisconsin
+2169,2017,1274,1458,1,0.93,Miami FL,Wisconsin
+2170,2017,1276,1458,0,0.31,Michigan,Wisconsin
+2171,2017,1277,1458,0,0.3,Michigan St,Wisconsin
+2172,2017,1278,1458,0,0.48,Minnesota,Wisconsin
+2173,2017,1291,1458,0,0.19,Mt St Mary's,Wisconsin
+2174,2017,1292,1458,0,0.37,MTSU,Wisconsin
+2175,2017,1297,1458,0,0.37,N Kentucky,Wisconsin
+2176,2017,1300,1458,0,0.32,NC Central,Wisconsin
+2177,2017,1305,1458,0,0.02,Nevada,Wisconsin
+2178,2017,1308,1458,0,0.42,New Mexico St,Wisconsin
+2179,2017,1309,1458,0,0.33,New Orleans,Wisconsin
+2180,2017,1314,1458,0,0.26,North Carolina,Wisconsin
+2181,2017,1315,1458,1,0.57,North Dakota,Wisconsin
+2182,2017,1321,1458,0,0.48,Northwestern,Wisconsin
+2183,2017,1323,1458,1,0.57,Notre Dame,Wisconsin
+2184,2017,1329,1458,0,0.28,Oklahoma St,Wisconsin
+2185,2017,1332,1458,0,0.1,Oregon,Wisconsin
+2186,2017,1343,1458,0,0.47,Princeton,Wisconsin
+2187,2017,1344,1458,0,0.28,Providence,Wisconsin
+2188,2017,1345,1458,1,0.7,Purdue,Wisconsin
+2189,2017,1348,1458,0,0.37,Rhode Island,Wisconsin
+2190,2017,1355,1458,0,0.34,S Dakota St,Wisconsin
+2191,2017,1371,1458,0,0.14,Seton Hall,Wisconsin
+2192,2017,1374,1458,1,0.55,SMU,Wisconsin
+2193,2017,1376,1458,1,0.54,South Carolina,Wisconsin
+2194,2017,1388,1458,1,0.75,St Mary's CA,Wisconsin
+2195,2017,1407,1458,1,0.62,Troy,Wisconsin
+2196,2017,1411,1458,0,0.49,TX Southern,Wisconsin
+2197,2017,1413,1458,0,0.36,UC Davis,Wisconsin
+2198,2017,1417,1458,1,0.57,UCLA,Wisconsin
+2199,2017,1423,1458,1,0.52,UNC Wilmington,Wisconsin
+2200,2017,1425,1458,0,0.26,USC,Wisconsin
+2201,2017,1433,1458,0,0.33,VA Commonwealth,Wisconsin
+2202,2017,1435,1458,1,0.87,Vanderbilt,Wisconsin
+2203,2017,1436,1458,1,0.57,Vermont,Wisconsin
+2204,2017,1437,1458,0,0.48,Villanova,Wisconsin
+2205,2017,1438,1458,1,0.71,Virginia,Wisconsin
+2206,2017,1439,1458,0,0.16,Virginia Tech,Wisconsin
+2207,2017,1448,1458,0,0.34,Wake Forest,Wisconsin
+2208,2017,1452,1458,1,0.55,West Virginia,Wisconsin
+2209,2017,1455,1458,0,0.45,Wichita St,Wisconsin
+2210,2017,1457,1458,1,0.69,Winthrop,Wisconsin
+2211,2017,1112,1462,1,0.84,Arizona,Xavier
+2212,2017,1116,1462,1,0.92,Arkansas,Xavier
+2213,2017,1124,1462,0,0.4,Baylor,Xavier
+2214,2017,1137,1462,1,0.65,Bucknell,Xavier
+2215,2017,1139,1462,1,0.59,Butler,Xavier
+2216,2017,1153,1462,1,0.87,Cincinnati,Xavier
+2217,2017,1166,1462,1,0.77,Creighton,Xavier
+2218,2017,1173,1462,0,0.48,Dayton,Xavier
+2219,2017,1181,1462,1,0.89,Duke,Xavier
+2220,2017,1190,1462,0,0.25,ETSU,Xavier
+2221,2017,1195,1462,0,0.25,FL Gulf Coast,Xavier
+2222,2017,1196,1462,0,0.23,Florida,Xavier
+2223,2017,1199,1462,0,0.44,Florida St,Xavier
+2224,2017,1211,1462,0,0.49,Gonzaga,Xavier
+2225,2017,1233,1462,0,0.3,Iona,Xavier
+2226,2017,1235,1462,1,0.72,Iowa St,Xavier
+2227,2017,1240,1462,1,0.81,Jacksonville St,Xavier
+2228,2017,1242,1462,1,0.79,Kansas,Xavier
+2229,2017,1243,1462,1,0.61,Kansas St,Xavier
+2230,2017,1245,1462,1,0.79,Kent,Xavier
+2231,2017,1246,1462,1,0.56,Kentucky,Xavier
+2232,2017,1257,1462,1,0.85,Louisville,Xavier
+2233,2017,1266,1462,1,0.88,Marquette,Xavier
+2234,2017,1268,1462,1,0.9,Maryland,Xavier
+2235,2017,1274,1462,1,0.7,Miami FL,Xavier
+2236,2017,1276,1462,0,0.39,Michigan,Xavier
+2237,2017,1277,1462,0,0.3,Michigan St,Xavier
+2238,2017,1278,1462,1,0.56,Minnesota,Xavier
+2239,2017,1291,1462,0,0.2,Mt St Mary's,Xavier
+2240,2017,1292,1462,0,0.11,MTSU,Xavier
+2241,2017,1297,1462,0,0.41,N Kentucky,Xavier
+2242,2017,1300,1462,0,0.08,NC Central,Xavier
+2243,2017,1305,1462,1,0.56,Nevada,Xavier
+2244,2017,1308,1462,0,0.48,New Mexico St,Xavier
+2245,2017,1309,1462,0,0.38,New Orleans,Xavier
+2246,2017,1314,1462,1,0.57,North Carolina,Xavier
+2247,2017,1315,1462,0,0.49,North Dakota,Xavier
+2248,2017,1321,1462,1,0.57,Northwestern,Xavier
+2249,2017,1323,1462,1,0.57,Notre Dame,Xavier
+2250,2017,1329,1462,1,0.82,Oklahoma St,Xavier
+2251,2017,1332,1462,1,0.81,Oregon,Xavier
+2252,2017,1343,1462,0,0.34,Princeton,Xavier
+2253,2017,1344,1462,0,0.45,Providence,Xavier
+2254,2017,1345,1462,0,0.16,Purdue,Xavier
+2255,2017,1348,1462,1,0.69,Rhode Island,Xavier
+2256,2017,1355,1462,0,0.23,S Dakota St,Xavier
+2257,2017,1371,1462,0,0.12,Seton Hall,Xavier
+2258,2017,1374,1462,1,0.67,SMU,Xavier
+2259,2017,1376,1462,1,0.66,South Carolina,Xavier
+2260,2017,1388,1462,1,0.73,St Mary's CA,Xavier
+2261,2017,1407,1462,0,0.49,Troy,Xavier
+2262,2017,1411,1462,1,0.55,TX Southern,Xavier
+2263,2017,1413,1462,0,0.47,UC Davis,Xavier
+2264,2017,1417,1462,0,0.4,UCLA,Xavier
+2265,2017,1423,1462,0,0.47,UNC Wilmington,Xavier
+2266,2017,1425,1462,1,0.75,USC,Xavier
+2267,2017,1433,1462,1,0.64,VA Commonwealth,Xavier
+2268,2017,1435,1462,1,0.78,Vanderbilt,Xavier
+2269,2017,1436,1462,0,0.49,Vermont,Xavier
+2270,2017,1437,1462,0,0.26,Villanova,Xavier
+2271,2017,1438,1462,0,0.31,Virginia,Xavier
+2272,2017,1439,1462,0,0.08,Virginia Tech,Xavier
+2273,2017,1448,1462,1,0.71,Wake Forest,Xavier
+2274,2017,1452,1462,1,0.53,West Virginia,Xavier
+2275,2017,1455,1462,1,0.77,Wichita St,Xavier
+2276,2017,1457,1462,0,0.35,Winthrop,Xavier
+2277,2017,1458,1462,1,0.6,Wisconsin,Xavier
