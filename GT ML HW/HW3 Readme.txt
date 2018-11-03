@@ -13,4 +13,4 @@ The wine data is available from the sklearn datasets library
 
 After that all code should run as long as you have required libraries installed. 
 
-The code is located here: https://github.com/jezlax/georgiatech_ml and is hw3.py
+The code is located here: https://github.com/jezlax/python/tree/master/GT%20ML%20HW and is hw3.py
